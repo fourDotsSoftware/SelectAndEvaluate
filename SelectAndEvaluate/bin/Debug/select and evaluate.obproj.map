@@ -1,0 +1,964 @@
+﻿<Mappings><Entry OldName="SelectAndEvaluate.CPUUsageMeter.cpuCounter" NewName="A.ca8c1abdbccc8aed2d48833a3f404226f.ce148fbd370217291309bbefa2a707bdb" />
+<Entry OldName="SelectAndEvaluate.CustomForm.LoadComplete" NewName="A.cf45d290d050e09d3f2b993b9f15b3472.c66723e9d891cc32f40d249cd1aed5824" />
+<Entry OldName="SelectAndEvaluate.CustomForm.BackGroundImg" NewName="A.cf45d290d050e09d3f2b993b9f15b3472.c1c07e01a4f7844c97af9946154524282" />
+<Entry OldName="SelectAndEvaluate.CustomForm.GradientBackground" NewName="A.cf45d290d050e09d3f2b993b9f15b3472.c3aaba7edc543ed8dd461cbc27a5176fa" />
+<Entry OldName="SelectAndEvaluate.CustomForm.tooltip" NewName="A.cf45d290d050e09d3f2b993b9f15b3472.cda9027a4e7ac69137d149e3da0a1f7f1" />
+<Entry OldName="SelectAndEvaluate.CustomForm.components" NewName="A.cf45d290d050e09d3f2b993b9f15b3472.c6c09ca483bf35dc526eac18522614aa9" />
+<Entry OldName="SelectAndEvaluate.frmAbout.lblf" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c4c6e25c47a12d7f739a97a3bc1235906" />
+<Entry OldName="SelectAndEvaluate.frmAbout.bufluf" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c804117dca9fa6b2514f8b4252b192ea1" />
+<Entry OldName="SelectAndEvaluate.frmAbout.lstbufluf" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c03517c2c5af966017b613cd14f92c73a" />
+<Entry OldName="SelectAndEvaluate.frmAbout.LDT" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c522c636e4cfe3a05dc41a840d64b7f46" />
+<Entry OldName="SelectAndEvaluate.frmAbout.components" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c6c09ca483bf35dc526eac18522614aa9" />
+<Entry OldName="SelectAndEvaluate.frmAbout.lblAbout" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c3b6b7314cf70c9e79f9abbbf128e7eb1" />
+<Entry OldName="SelectAndEvaluate.frmAbout.btnClose" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c3c421ca3bfe937ea8536792042e1925f" />
+<Entry OldName="SelectAndEvaluate.frmAbout.pictureBox1" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c36cca590446da6005c61b01dbe55d0b5" />
+<Entry OldName="SelectAndEvaluate.frmAbout.linkLabel1" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c3c4aa49085152b50c4c64837f8abb9e8" />
+<Entry OldName="SelectAndEvaluate.frmAbout.label1" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c9f2d99954e6e6780d9523993dba5e574" />
+<Entry OldName="SelectAndEvaluate.frmAbout.label2" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c47db3fdc6719488e6c4ad52de96ac5fe" />
+<Entry OldName="SelectAndEvaluate.frmAbout.linkLabel2" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.cc009fe76b2d2bd121e47681453ea3577" />
+<Entry OldName="SelectAndEvaluate.frmAbout.niceLine1" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.ca412db5776a91de066e788d2f7678f6e" />
+<Entry OldName="SelectAndEvaluate.frmAbout.niceLine3" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c21e75cd0478fcd544f8a4d63b5037f69" />
+<Entry OldName="SelectAndEvaluate.frmAbout.label3" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c9d6271043dba4174dfaf7c6443f145fb" />
+<Entry OldName="SelectAndEvaluate.frmAbout.ullProductWebpage" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.cb02770b1ff6fb7bd5547d4c300417495" />
+<Entry OldName="SelectAndEvaluate.frmAbout.lblRegistered" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.caf31a574f54b304072a9a13ab183d664" />
+<Entry OldName="SelectAndEvaluate.frmAbout.btnDonate" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.cd5fa4ae1bede04d92c58d011f2adc389" />
+<Entry OldName="SelectAndEvaluate.frmAbout.niceLine2" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c8181171cfffbc4ac56e1dcfcb57ad089" />
+<Entry OldName="SelectAndEvaluate.frmAbout.niceLine4" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c6e04900d91afe2f89a0479c86d02bd87" />
+<Entry OldName="SelectAndEvaluate.frmAbout.label4" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c1596fbe9953dfc799b98ae2242ae9e06" />
+<Entry OldName="SelectAndEvaluate.frmAbout.urlLinkLabel1" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.cd44d77e0bdc480a228ab0f6b3ca2a41a" />
+<Entry OldName="SelectAndEvaluate.frmDownloadUpdate._DownloadFile" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.c1958444f0dac62ce3b7dbcbc6e6d2597" />
+<Entry OldName="SelectAndEvaluate.frmDownloadUpdate.client" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.c0ea72a95c5f316e57869018101e193d3" />
+<Entry OldName="SelectAndEvaluate.frmDownloadUpdate.Cancelled" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.ca16b3e275edecc43683739f1267f831b" />
+<Entry OldName="SelectAndEvaluate.frmDownloadUpdate.components" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.c6c09ca483bf35dc526eac18522614aa9" />
+<Entry OldName="SelectAndEvaluate.frmDownloadUpdate.pgBar" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.c9589f272e18926fc5c8296eceb1336e9" />
+<Entry OldName="SelectAndEvaluate.frmDownloadUpdate.btnCancelDownload" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.ccf075abe63986ec7e1bc81bee66f4af6" />
+<Entry OldName="SelectAndEvaluate.frmDownloadUpdate.bwDownload" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.cd9eed5fe707b817c8e8996e28cafa5a7" />
+<Entry OldName="SelectAndEvaluate.frmDownloadUpdate.label1" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.c9f2d99954e6e6780d9523993dba5e574" />
+<Entry OldName="SelectAndEvaluate.frmDownloadUpdate.lblTotalSize" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.c5823a475bd7558ab1f490fdb21a88ab1" />
+<Entry OldName="SelectAndEvaluate.frmError.components" NewName="A.cae9574d1518bacf095666b9dd2e78ddb.c6c09ca483bf35dc526eac18522614aa9" />
+<Entry OldName="SelectAndEvaluate.frmError.txtError" NewName="A.cae9574d1518bacf095666b9dd2e78ddb.cf049f6fcfeba2e2aa6164090dc57c9ac" />
+<Entry OldName="SelectAndEvaluate.frmError.pictureBox1" NewName="A.cae9574d1518bacf095666b9dd2e78ddb.c36cca590446da6005c61b01dbe55d0b5" />
+<Entry OldName="SelectAndEvaluate.frmError.lblError" NewName="A.cae9574d1518bacf095666b9dd2e78ddb.c1f103939cca1ccfc9e8f4dcc5ad6c539" />
+<Entry OldName="SelectAndEvaluate.frmError.btnClose" NewName="A.cae9574d1518bacf095666b9dd2e78ddb.c3c421ca3bfe937ea8536792042e1925f" />
+<Entry OldName="SelectAndEvaluate.frmMain.keyboardHook" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c77a9207372d52b71c3bac827b01aa5e4" />
+<Entry OldName="SelectAndEvaluate.frmMain.HotKeyChar" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.ca5c9b2e20d49f415bff8cad87e7c9a66" />
+<Entry OldName="SelectAndEvaluate.frmMain.HookingProtector" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.cb96c8c2bb0aebae0f91980885705b8d9" />
+<Entry OldName="SelectAndEvaluate.frmMain.Instance" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c1c5d5d8e6b8abc9279b822350473f856" />
+<Entry OldName="SelectAndEvaluate.frmMain.ControlCIsPressed" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c7d3169973d5d1ad402ffd04d37f19d26" />
+<Entry OldName="SelectAndEvaluate.frmMain.sc" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c57f5809e6a7245c6b9c81c6ca2dbe4a9" />
+<Entry OldName="SelectAndEvaluate.frmMain.FreeForPersonalUse" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.ce8cf6b6ae26ecaeb287af933edb555d8" />
+<Entry OldName="SelectAndEvaluate.frmMain.FreeForPersonalAndCommercialUse" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c1c744d1a91494660c2508574bc043eaa" />
+<Entry OldName="SelectAndEvaluate.frmMain.components" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c6c09ca483bf35dc526eac18522614aa9" />
+<Entry OldName="SelectAndEvaluate.frmMain.notMain" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c9253a9d7c5cd80e2d370f9b222cb0ebf" />
+<Entry OldName="SelectAndEvaluate.frmMain.label1" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c9f2d99954e6e6780d9523993dba5e574" />
+<Entry OldName="SelectAndEvaluate.frmMain.label2" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c47db3fdc6719488e6c4ad52de96ac5fe" />
+<Entry OldName="SelectAndEvaluate.frmMain.txtHotKey" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c7c11a2170e8a3f1dcbadfa17f7ed60fc" />
+<Entry OldName="SelectAndEvaluate.frmMain.label3" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c9d6271043dba4174dfaf7c6443f145fb" />
+<Entry OldName="SelectAndEvaluate.frmMain.msMain" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.cabe4ddf961b072bb5dd1b9b42f701645" />
+<Entry OldName="SelectAndEvaluate.frmMain.fileToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c2fe9f94b692a7bfcf37e2a98be86e178" />
+<Entry OldName="SelectAndEvaluate.frmMain.exitToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c7d0a8e1156192c1c10b9533116e1ff53" />
+<Entry OldName="SelectAndEvaluate.frmMain.helpToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c9f6d33acf954dc3f434dab857cbb2a5b" />
+<Entry OldName="SelectAndEvaluate.frmMain.helpGuideToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c0dcaea0d585cf39a47b907697094bf01" />
+<Entry OldName="SelectAndEvaluate.frmMain.pleaseDonateToolStripMenuItem1" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c5f555657e79c38b4750a30955f8f942e" />
+<Entry OldName="SelectAndEvaluate.frmMain.dotsSoftwarePRODUCTCATALOGToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c70d9e4f251ecc2edf03546be0de396ac" />
+<Entry OldName="SelectAndEvaluate.frmMain.checkForNewVersionEachWeekToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.ce2b251267ea38d6f1f88daa4d04e9adb" />
+<Entry OldName="SelectAndEvaluate.frmMain.tiHelpFeedback" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c58d4cca1a28db144d0b690a8b0e8993c" />
+<Entry OldName="SelectAndEvaluate.frmMain.checkForNewVersionToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.cb9f168ab99d84c43fb8fccd0a8dd79fa" />
+<Entry OldName="SelectAndEvaluate.frmMain.toolStripMenuItem1" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.ced05832e0cbfba6c005b147856b12b41" />
+<Entry OldName="SelectAndEvaluate.frmMain.followUsOnTwitterToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c19ba640988a7009a7f6159e7f3929f55" />
+<Entry OldName="SelectAndEvaluate.frmMain.visit4dotsSoftwareWebsiteToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c0b6098415cd2c763f993265b8848c112" />
+<Entry OldName="SelectAndEvaluate.frmMain.youtubeChannelToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c52a184c5e4ba49b10b3c8d8a3b400fd0" />
+<Entry OldName="SelectAndEvaluate.frmMain.aboutToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c793f666c1936ec43cdc0be5739870784" />
+<Entry OldName="SelectAndEvaluate.frmMain.btnClose" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c3c421ca3bfe937ea8536792042e1925f" />
+<Entry OldName="SelectAndEvaluate.frmMain.downloadSoftwareToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.cf672284be8c08e60f23d8637bd70f334" />
+<Entry OldName="SelectAndEvaluate.frmMain.label4" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c1596fbe9953dfc799b98ae2242ae9e06" />
+<Entry OldName="SelectAndEvaluate.frmMain.txtTestBox" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c148a24a4f27d13ebbf7fca2e25d26b1e" />
+<Entry OldName="SelectAndEvaluate.frmMain.optionsToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.cae20afce972c2c7303d1c4179e0fc012" />
+<Entry OldName="SelectAndEvaluate.frmMain.runAtWindowsStartupToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c5757c1c101287ee184c4e240567a614f" />
+<Entry OldName="SelectAndEvaluate.frmMain.cmsMain" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.cba796d55f6baa99ca6dcc94f24a3a87a" />
+<Entry OldName="SelectAndEvaluate.frmMain.openToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c7bb030c0aa61c8eb4fb9d98b358178d6" />
+<Entry OldName="SelectAndEvaluate.frmMain.exitToolStripMenuItem1" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c44393ac62bc8016e4957139f85d72e4e" />
+<Entry OldName="SelectAndEvaluate.frmMain.toolStripMenuItem3" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c1ff9b4f9ca6f6b02d9e67a5d13d6a50f" />
+<Entry OldName="SelectAndEvaluate.frmMain.copyToClipboardResultToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c2f1df175b252a241d83658f37d7fd821" />
+<Entry OldName="SelectAndEvaluate.frmMain.pasteResultToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c7a6bd839c7ae7c34642995750afde5c9" />
+<Entry OldName="SelectAndEvaluate.frmMain.minimizeToWindowsSystemTrayToolStripMenuItem" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c3438e1bc6dc4762172a147f43932d76d" />
+<Entry OldName="SelectAndEvaluate.frmMain.chkControl" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c44bb985c2cdaf7f439cf2418acea6f92" />
+<Entry OldName="SelectAndEvaluate.frmMain.chkAlt" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c4e1b3232e8d683f1a96218ca54b7ea86" />
+<Entry OldName="SelectAndEvaluate.frmMain.chkShift" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.cab063b3ae8717e31b1c6670c9378d89b" />
+<Entry OldName="SelectAndEvaluate.frmMessageCheckbox.components" NewName="A.c4317fa90830b5c38ba663c3c1ca1d5a1.c6c09ca483bf35dc526eac18522614aa9" />
+<Entry OldName="SelectAndEvaluate.frmMessageCheckbox.chkOption" NewName="A.c4317fa90830b5c38ba663c3c1ca1d5a1.c3fe1d1b6fbf2a48695dd81424b02a5bf" />
+<Entry OldName="SelectAndEvaluate.frmMessageCheckbox.lblOption" NewName="A.c4317fa90830b5c38ba663c3c1ca1d5a1.c020c4228c1650b8f9047ebd1f1c09dd4" />
+<Entry OldName="SelectAndEvaluate.frmMessageCheckbox.btnOK" NewName="A.c4317fa90830b5c38ba663c3c1ca1d5a1.c5c1fe7e1df10f9fbb6464cb65a4d999e" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.WH_MOUSE_LL" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c8266b1c58ecd33d80c4eaa0bb428bf3c" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.WH_KEYBOARD_LL" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c5dcbecc7135875c6329a0d8cbe2b35cf" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.WH_MOUSE" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.ce3bb31f23c5e796d60a44b8e8aae0e91" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.WH_KEYBOARD" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.cd094710639d157d87207366df5ce8f7f" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.WM_MOUSEMOVE" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c544dccda5a8e521335b07da83c2fb653" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.WM_LBUTTONDOWN" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.cb47cbc9017ed92103956386bf6ce5147" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.WM_RBUTTONDOWN" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.cd97f5538b8c7b409c1d93a09bbea8249" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.WM_MBUTTONDOWN" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c525868e753233ba76a27d53be24af5ae" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.WM_LBUTTONUP" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c7487b11a6b0de497c80f5a1cb27ebdf7" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.WM_RBUTTONUP" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c6bc6e205d3427a2dc69c79f1671f6186" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.WM_MBUTTONUP" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c9ab4853f1e427a091376f5ef9bbd4e1b" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.WM_LBUTTONDBLCLK" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c4c769bb792bea8bd5a2de04c3a670709" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.WM_RBUTTONDBLCLK" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c749fc78c255235188c97cbbe0afdb3ee" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.WM_MBUTTONDBLCLK" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.cc758004488df26ed561e5a8671326d30" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.WM_MOUSEWHEEL" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c4d3409dce2a5bc5a9418bbaf528b93b3" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.WM_KEYDOWN" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c1d14ae785c96e7054a6716fa0fb68e06" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.WM_KEYUP" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.ccb8751c8f390545e57090b82277ac1ab" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.WM_SYSKEYDOWN" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.cf045e1e001589f7de7262af9468a2115" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.WM_SYSKEYUP" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c75a9ce4b17662154166844b49b4a7ed0" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.VK_SHIFT" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c4f673e50e4588eb4f5a241ee1572089d" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.VK_CAPITAL" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c438e27ba6442b7c1e30529dd13f93c09" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.VK_NUMLOCK" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c3c76794fb66ba91e103fc149532ffd7b" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.VK_LSHIFT" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.cc9dc3e379d572292a8018eefc0da81fd" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.VK_RSHIFT" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c72e6a5d77ff3ea848301f201c5913e85" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.VK_LCONTROL" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c1f59204adc4da9aef8f8e11ec564c862" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.VK_RCONTROL" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c7e1cc45c3f0eeb8d8afe55fe11259130" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.VK_LALT" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.caf37e9089c945a430829933bb428ed2c" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.VK_RALT" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.cd6716b2762d806c597f0719ee6f42444" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.LLKHF_ALTDOWN" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c4d1b2ec1a7a2cba65876ed6eaa59aef5" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.WM_NCMOUSEMOVE" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c556b88a0f071e6c09ee7dd2605263d95" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.WM_NCMOUSELEAVE" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.ca2884189feb11a764679404010a43bbc" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.WM_NCLBUTTONDOWN" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c9509237637a4063103d7c3027f83eb00" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.WM_NCHITTEST" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c728b87f715e1ba769d32eca3699c520c" />
+<Entry OldName="SelectAndEvaluate.GlobalHook._hookType" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.ce5b06fd1c5a1783255adc7a2b71a1400" />
+<Entry OldName="SelectAndEvaluate.GlobalHook._handleToHook" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.cd63c426e60879ee04a978150fcebe62b" />
+<Entry OldName="SelectAndEvaluate.GlobalHook._isStarted" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c346bf720ac5a659f862c614ceb1a983a" />
+<Entry OldName="SelectAndEvaluate.GlobalHook._hookCallback" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c195624940d428cc228d717ad7bc617a4" />
+<Entry OldName="SelectAndEvaluate.HookingProtector.timSetHookEnabled" NewName="A.c474b7280d1517d2709c780f4bd97e886.cb1fc189e73d7343b01c7ede887e756e7" />
+<Entry OldName="SelectAndEvaluate.HookingProtector.bwTimSetHook" NewName="A.c474b7280d1517d2709c780f4bd97e886.c566ad1d9fa2ce4a880ebacfa847828bb" />
+<Entry OldName="SelectAndEvaluate.HookingProtector.InTimSetHook" NewName="A.c474b7280d1517d2709c780f4bd97e886.ce2c8990b73bf32ffd551c3488d1f6f2e" />
+<Entry OldName="SelectAndEvaluate.KeyboardHook.KeyDown" NewName="A.cc2b697dc5081ab466b3a80fbeb0f9a70.cbff4c154e4720241637ea3846a7b0e72" />
+<Entry OldName="SelectAndEvaluate.KeyboardHook.KeyUp" NewName="A.cc2b697dc5081ab466b3a80fbeb0f9a70.c32fa3f633361cb3e7f0ad4c8119208f3" />
+<Entry OldName="SelectAndEvaluate.KeyboardHook.KeyPress" NewName="A.cc2b697dc5081ab466b3a80fbeb0f9a70.c73c31f2d7b7029b8c88ee51fed7661ca" />
+<Entry OldName="SelectAndEvaluate.KeyboardHook.CheckSetHookTimer" NewName="A.cc2b697dc5081ab466b3a80fbeb0f9a70.c443f370a01ba7561f7d70201592647fc" />
+<Entry OldName="SelectAndEvaluate.StandardShortcut.value__" NewName="A.c682faf359812933fcd0a7961236531f4.value__" />
+<Entry OldName="SelectAndEvaluate.StandardShortcut.Copy" NewName="A.c682faf359812933fcd0a7961236531f4.c87978a24a24f0ea748dc8d858dd89f4a" />
+<Entry OldName="SelectAndEvaluate.StandardShortcut.Cut" NewName="A.c682faf359812933fcd0a7961236531f4.cfa93697212192c54fa3d2bd10a734e6e" />
+<Entry OldName="SelectAndEvaluate.StandardShortcut.Paste" NewName="A.c682faf359812933fcd0a7961236531f4.c9b9907434a56f1b5a23de92518c5d8b5" />
+<Entry OldName="SelectAndEvaluate.StandardShortcut.SelectAll" NewName="A.c682faf359812933fcd0a7961236531f4.c8f63996d1539418578c2cae1d4038757" />
+<Entry OldName="SelectAndEvaluate.StandardShortcut.Save" NewName="A.c682faf359812933fcd0a7961236531f4.ce955fbd2e35e4b150396b19be0d1b74b" />
+<Entry OldName="SelectAndEvaluate.StandardShortcut.Open" NewName="A.c682faf359812933fcd0a7961236531f4.cd9fb3f0b99726b33e71a4e9110942575" />
+<Entry OldName="SelectAndEvaluate.StandardShortcut.New" NewName="A.c682faf359812933fcd0a7961236531f4.c6655ee68cb00c73fae2df3624f73936a" />
+<Entry OldName="SelectAndEvaluate.StandardShortcut.Close" NewName="A.c682faf359812933fcd0a7961236531f4.cffb332c159b2a3331fd14f96163534d6" />
+<Entry OldName="SelectAndEvaluate.StandardShortcut.Print" NewName="A.c682faf359812933fcd0a7961236531f4.c54b45638dd1e72aaea3ab9f1918a1264" />
+<Entry OldName="SelectAndEvaluate.KeyboardSimulator.KEYEVENTF_EXTENDEDKEY" NewName="A.c7c5bdd86bc582a99b668bd93ba1f6737.c8df6d75961b9e6e113265718a6a59fa3" />
+<Entry OldName="SelectAndEvaluate.KeyboardSimulator.KEYEVENTF_KEYUP" NewName="A.c7c5bdd86bc582a99b668bd93ba1f6737.c6f90bbfe56c7fe688ca5a9ffd1611c0a" />
+<Entry OldName="SelectAndEvaluate.Module.BlueForeColor" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c1e7fb083e54c837af589c6f53b270d37" />
+<Entry OldName="SelectAndEvaluate.Module.ApplicationName" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c5844f94059df260d95762b6ecb4c70b9" />
+<Entry OldName="SelectAndEvaluate.Module.Version" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.ca865853022ac9f1a8e59f93c976c70f1" />
+<Entry OldName="SelectAndEvaluate.Module.Ver" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c9c2de6577d54303e0a1f39e70e18a4dd" />
+<Entry OldName="SelectAndEvaluate.Module.ShortApplicationTitle" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.cc3c281d018df7e85ed95e5609d524d03" />
+<Entry OldName="SelectAndEvaluate.Module.ApplicationTitle" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c127422c0663d81fd3e6e2fde9a164fa3" />
+<Entry OldName="SelectAndEvaluate.Module.DownloadURL" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c45b144149cee39f0d48354cb25c62fda" />
+<Entry OldName="SelectAndEvaluate.Module.HelpURL" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c00c74539a087de44afee6ea80999dd29" />
+<Entry OldName="SelectAndEvaluate.Module.ProductWebpageURL" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c298d43694c29ae26e2d1fe41beb5cddc" />
+<Entry OldName="SelectAndEvaluate.Module.BuyURL" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c0b67c0d3b2abe3e94f3e43d13e18524f" />
+<Entry OldName="SelectAndEvaluate.Module.VersionURL" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.ce3075ffb8128b078eebebfdbf57a7190" />
+<Entry OldName="SelectAndEvaluate.Module.NumberOfFilesProcessed" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.ca6c1bedb26a016857ad60bdf62b33ec7" />
+<Entry OldName="SelectAndEvaluate.Module.TipText" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c2e7131f8c73a16543d6458be8c2f59ae" />
+<Entry OldName="SelectAndEvaluate.Module.SelectedLanguage" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c565cb21e811b5e907b88972068aa1d4a" />
+<Entry OldName="SelectAndEvaluate.Module.args" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c2aa5276c470002d0568558ea9fbdf153" />
+<Entry OldName="SelectAndEvaluate.NiceLine.components" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.c6c09ca483bf35dc526eac18522614aa9" />
+<Entry OldName="SelectAndEvaluate.NiceLine._Caption" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.c1e373409295b748a00238079ab56187a" />
+<Entry OldName="SelectAndEvaluate.NiceLine._CaptionMarginSpace" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.cb6488d44df74682db3e3cc6d22dc4e8c" />
+<Entry OldName="SelectAndEvaluate.NiceLine._CaptionPadding" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.cb0a92c15daa1b27265038ca40c4ef72d" />
+<Entry OldName="SelectAndEvaluate.NiceLine._LineVerticalAlign" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.cb65fedb8bfac77d6117fd2e35b5e55c4" />
+<Entry OldName="SelectAndEvaluate.NiceLine._CaptionOrizontalAlign" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.c9b0f18b7c637d762908c09f4e8a6f6df" />
+<Entry OldName="SelectAndEvaluate.LineVerticalAlign.value__" NewName="A.c1fba512c73e89e3cd7592235bf68737e.value__" />
+<Entry OldName="SelectAndEvaluate.LineVerticalAlign.Top" NewName="A.c1fba512c73e89e3cd7592235bf68737e.c1a1592c80dbc80ab14dae01037883ee4" />
+<Entry OldName="SelectAndEvaluate.LineVerticalAlign.Middle" NewName="A.c1fba512c73e89e3cd7592235bf68737e.c9a57b8fb0c3036a8c170ce584f9886c1" />
+<Entry OldName="SelectAndEvaluate.LineVerticalAlign.Bottom" NewName="A.c1fba512c73e89e3cd7592235bf68737e.c2bb827966427c91e425da79bc5ea1d02" />
+<Entry OldName="SelectAndEvaluate.CaptionOrizontalAlign.value__" NewName="A.cc236d2e2c45be8b92c64d6df79ac6317.value__" />
+<Entry OldName="SelectAndEvaluate.CaptionOrizontalAlign.Left" NewName="A.cc236d2e2c45be8b92c64d6df79ac6317.c1021126067490bd96942dc9287c196e4" />
+<Entry OldName="SelectAndEvaluate.CaptionOrizontalAlign.Center" NewName="A.cc236d2e2c45be8b92c64d6df79ac6317.c73d0003cceb368002f8362a6d15d7726" />
+<Entry OldName="SelectAndEvaluate.CaptionOrizontalAlign.Right" NewName="A.cc236d2e2c45be8b92c64d6df79ac6317.c0f761b26624467524f3e18b3ef0f5abe" />
+<Entry OldName="SelectAndEvaluate.ucTextProgressBar.lblText" NewName="A.c94455cbc55750d70580b4effcf56d1e4.c7f94e059da95f0cc72cb7ce50598af8b" />
+<Entry OldName="SelectAndEvaluate.ucTextProgressBar.WmPaint" NewName="A.c94455cbc55750d70580b4effcf56d1e4.cfc52fd64767cdbeed06f8ddce76db6fa" />
+<Entry OldName="SelectAndEvaluate.ucTextProgressBar.components" NewName="A.c94455cbc55750d70580b4effcf56d1e4.c6c09ca483bf35dc526eac18522614aa9" />
+<Entry OldName="SelectAndEvaluate.UpdateHelper.bwCheckVersion" NewName="A.c90fea82130ee16c91ac1affdc7f73c89.c017b412f97c38b14a9d80c0e8d829d1a" />
+<Entry OldName="SelectAndEvaluate.CheckVersionResult.NewVersionReleased" NewName="A.c4d3a70f9cd26d69f7afd3a9c35c15d98.cb8f42af0db673d9c4f3d56f3526c3afc" />
+<Entry OldName="SelectAndEvaluate.CheckVersionResult.ItIsNecessaryToUpdate" NewName="A.c4d3a70f9cd26d69f7afd3a9c35c15d98.c8af6fb477af13106e42b55cb4f5f9d8f" />
+<Entry OldName="SelectAndEvaluate.CheckVersionResult.OutputMessage" NewName="A.c4d3a70f9cd26d69f7afd3a9c35c15d98.c3d5581eda9f2e42ae95dd35686ed5f7f" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.resourceMan" NewName="A.c43e4afe39b031d9bb10a751d840508ba.caa7b336ab7c5bbc7d72b50dedcd50fbb" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.resourceCulture" NewName="A.c43e4afe39b031d9bb10a751d840508ba.ce3ba00f3d66adf35f9066330bf1ed395" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.POINT.x" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c12badf3e9161de27c7481e047dbb9d1b.c3b4d3b92ce9f4a7a175330963d7c3f1f" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.POINT.y" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c12badf3e9161de27c7481e047dbb9d1b.c20d7678fd180bc34d088da4d4ef9eebc" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.MouseHookStruct.pt" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c1f3de133f83873e461e2b74586f1f90d.ccf3c5469c6a307dfad057c2ee30ee382" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.MouseHookStruct.hwnd" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c1f3de133f83873e461e2b74586f1f90d.cec38dc6af0dfd3dac72c576c825a4aa6" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.MouseHookStruct.wHitTestCode" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c1f3de133f83873e461e2b74586f1f90d.c7f01512ac2d4640dc8eafaf987e2bd09" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.MouseHookStruct.dwExtraInfo" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c1f3de133f83873e461e2b74586f1f90d.c3f475f8c5ff053a3de13b36c77e8a76e" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.MouseLLHookStruct.pt" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c5baee6b0f75b7c289b8110804f32c2d6.ccf3c5469c6a307dfad057c2ee30ee382" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.MouseLLHookStruct.mouseData" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c5baee6b0f75b7c289b8110804f32c2d6.c2b5dc7c5f6ff475e2aeb247492b8f7b1" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.MouseLLHookStruct.flags" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c5baee6b0f75b7c289b8110804f32c2d6.ca4d44a6c7ddb3a2f4ace5c259b9bb776" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.MouseLLHookStruct.time" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c5baee6b0f75b7c289b8110804f32c2d6.c62ab9067c40ad3167eeaf1219c71a61d" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.MouseLLHookStruct.dwExtraInfo" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c5baee6b0f75b7c289b8110804f32c2d6.c3f475f8c5ff053a3de13b36c77e8a76e" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.KeyboardHookStruct.vkCode" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c54501fdad099da493eed9bc7eeea7ed8.cd4e8e3daa892ad1c991b410f53227926" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.KeyboardHookStruct.scanCode" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c54501fdad099da493eed9bc7eeea7ed8.cef7982f60420ddd42a24c7f55f3c5f6c" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.KeyboardHookStruct.flags" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c54501fdad099da493eed9bc7eeea7ed8.ca4d44a6c7ddb3a2f4ace5c259b9bb776" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.KeyboardHookStruct.time" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c54501fdad099da493eed9bc7eeea7ed8.c62ab9067c40ad3167eeaf1219c71a61d" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.KeyboardHookStruct.dwExtraInfo" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c54501fdad099da493eed9bc7eeea7ed8.c3f475f8c5ff053a3de13b36c77e8a76e" />
+<Entry OldName="SelectAndEvaluate.CPUUsageMeter..ctor()" NewName="A.ca8c1abdbccc8aed2d48833a3f404226f..ctor()" />
+<Entry OldName="SelectAndEvaluate.CPUUsageMeter..cctor()" NewName="A.ca8c1abdbccc8aed2d48833a3f404226f..cctor()" />
+<Entry OldName="SelectAndEvaluate.CPUUsageMeter.get_CPUUsageHigh()" NewName="A.ca8c1abdbccc8aed2d48833a3f404226f.get_c8ef6bc8b2fa2b5fcc2f9c4d95b8f13d6()" />
+<Entry OldName="SelectAndEvaluate.CustomForm..ctor()" NewName="A.cf45d290d050e09d3f2b993b9f15b3472..ctor()" />
+<Entry OldName="SelectAndEvaluate.CustomForm.OnResize(EventArgs e)" NewName="A.cf45d290d050e09d3f2b993b9f15b3472.OnResize(EventArgs e)" />
+<Entry OldName="SelectAndEvaluate.CustomForm.OnPaintBackground(PaintEventArgs e)" NewName="A.cf45d290d050e09d3f2b993b9f15b3472.OnPaintBackground(PaintEventArgs e)" />
+<Entry OldName="SelectAndEvaluate.CustomForm.OnLoad(EventArgs e)" NewName="A.cf45d290d050e09d3f2b993b9f15b3472.OnLoad(EventArgs e)" />
+<Entry OldName="SelectAndEvaluate.CustomForm.CustomForm_Activated(Object sender, EventArgs e)" NewName="A.cf45d290d050e09d3f2b993b9f15b3472.c8e1027a7c5e6781e8201aef36bf7fec9(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.CustomForm.OnActivated(EventArgs e)" NewName="A.cf45d290d050e09d3f2b993b9f15b3472.OnActivated(EventArgs e)" />
+<Entry OldName="SelectAndEvaluate.CustomForm.ResizeControls()" NewName="A.cf45d290d050e09d3f2b993b9f15b3472.caa0752c11bf61c27b1873ba8f6e282e5()" />
+<Entry OldName="SelectAndEvaluate.CustomForm.ResizeChildControls(Control co)" NewName="A.cf45d290d050e09d3f2b993b9f15b3472.cd7fa1a7efe86469b40b678418bfc2b1f(Control cf778a91267339701dbc22a9d693e2a56)" />
+<Entry OldName="SelectAndEvaluate.CustomForm.Dispose(Boolean disposing)" NewName="A.cf45d290d050e09d3f2b993b9f15b3472.Dispose(Boolean disposing)" />
+<Entry OldName="SelectAndEvaluate.CustomForm.InitializeComponent()" NewName="A.cf45d290d050e09d3f2b993b9f15b3472.c8cd1efce0e3362ecdb08ac865e5255ef()" />
+<Entry OldName="SelectAndEvaluate.ExceptionHandlersHelper..ctor()" NewName="A.c5adea92bc8528127188148270b7f7b8c..ctor()" />
+<Entry OldName="SelectAndEvaluate.ExceptionHandlersHelper.AddUnhandledExceptionHandlers()" NewName="A.c5adea92bc8528127188148270b7f7b8c.c4cf8543b55e92a325c9cdd7e63507114()" />
+<Entry OldName="SelectAndEvaluate.ExceptionHandlersHelper.myExceptionHandler(Object sender, UnhandledExceptionEventArgs e)" NewName="A.c5adea92bc8528127188148270b7f7b8c.cc015d0311da48e5dd6423b9eb013162e(Object c85aed36de41247a0fb3396b188018af8, UnhandledExceptionEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.ExceptionHandlersHelper.myThreadExceptionHandler(Object sender, ThreadExceptionEventArgs e)" NewName="A.c5adea92bc8528127188148270b7f7b8c.c99a2788ebe4a4b0244579a9076941a23(Object c85aed36de41247a0fb3396b188018af8, ThreadExceptionEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmAbout..ctor()" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a..ctor()" />
+<Entry OldName="SelectAndEvaluate.frmAbout..cctor()" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a..cctor()" />
+<Entry OldName="SelectAndEvaluate.frmAbout.frmAbout_Load(Object sender, EventArgs e)" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.caaa167bf9fab4e0f2d216f86966a27be(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmAbout.btnClose_Click(Object sender, EventArgs e)" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c3a719807626fba4a0340647e4fa953e5(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmAbout.btnDonate_Click(Object sender, EventArgs e)" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c528f04e0259c988382b836cc30351a81(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmAbout.Dispose(Boolean disposing)" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.Dispose(Boolean disposing)" />
+<Entry OldName="SelectAndEvaluate.frmAbout.InitializeComponent()" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a.c8cd1efce0e3362ecdb08ac865e5255ef()" />
+<Entry OldName="SelectAndEvaluate.frmDownloadUpdate..ctor()" NewName="A.cf0a052401509b5fe1a216c3facb67c5f..ctor()" />
+<Entry OldName="SelectAndEvaluate.frmDownloadUpdate.get_DownloadFile()" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.get_cecd1f3bc9c07279a7d8e1cb6c0a5f3ec()" />
+<Entry OldName="SelectAndEvaluate.frmDownloadUpdate.get_DownloadURL()" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.get_c45b144149cee39f0d48354cb25c62fda()" />
+<Entry OldName="SelectAndEvaluate.frmDownloadUpdate.frmDownloadUpdate_Load(Object sender, EventArgs e)" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.c5edfae84633a20936fa51c40e9a5e3e6(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmDownloadUpdate.client_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.c608191a8c3c89cdeac89a69a5f68d34e(Object c85aed36de41247a0fb3396b188018af8, AsyncCompletedEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmDownloadUpdate.client_DownloadProgressChanged(Object sender, DownloadProgressChangedEventArgs e)" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.c79c836d6d92087f925611f378bafa516(Object c85aed36de41247a0fb3396b188018af8, DownloadProgressChangedEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmDownloadUpdate.GetEXEDownloadURL()" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.cc92ace5a60f6a8fee47e43a48b5d36e2()" />
+<Entry OldName="SelectAndEvaluate.frmDownloadUpdate.btnCancelDownload_Click(Object sender, EventArgs e)" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.c8ee7c66c0f3e1ebf72f2a3c3670ff7fe(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmDownloadUpdate.Dispose(Boolean disposing)" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.Dispose(Boolean disposing)" />
+<Entry OldName="SelectAndEvaluate.frmDownloadUpdate.InitializeComponent()" NewName="A.cf0a052401509b5fe1a216c3facb67c5f.c8cd1efce0e3362ecdb08ac865e5255ef()" />
+<Entry OldName="SelectAndEvaluate.frmError..ctor(String lbl, String txt)" NewName="A.cae9574d1518bacf095666b9dd2e78ddb..ctor(String cab1961f054e174cc6fab59dc1d00376c, String cbdeafa9f3836457e3eb5ebc3bf345424)" />
+<Entry OldName="SelectAndEvaluate.frmError.btnClose_Click(Object sender, EventArgs e)" NewName="A.cae9574d1518bacf095666b9dd2e78ddb.c3a719807626fba4a0340647e4fa953e5(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmError.Dispose(Boolean disposing)" NewName="A.cae9574d1518bacf095666b9dd2e78ddb.Dispose(Boolean disposing)" />
+<Entry OldName="SelectAndEvaluate.frmError.InitializeComponent()" NewName="A.cae9574d1518bacf095666b9dd2e78ddb.c8cd1efce0e3362ecdb08ac865e5255ef()" />
+<Entry OldName="SelectAndEvaluate.frmMain..ctor()" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa..ctor()" />
+<Entry OldName="SelectAndEvaluate.frmMain..cctor()" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa..cctor()" />
+<Entry OldName="SelectAndEvaluate.frmMain.frmMain_Load(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c0a6673cf8f46f4cb3565e404f5347ca6(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMain.keyboardHook_KeyPress(Object sender, KeyPressEventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c13befe75d92c97dd3848fb706983cf84(Object c85aed36de41247a0fb3396b188018af8, KeyPressEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMain.keyboardHook_KeyUp(Object sender, KeyEventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c39725dc1400b6a0a6e9c10a127103285(Object c85aed36de41247a0fb3396b188018af8, KeyEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMain.keyboardHook_KeyDown(Object sender, KeyEventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c70e2572c9cb72df9efbe70e44912b31c(Object c85aed36de41247a0fb3396b188018af8, KeyEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMain.Calculate()" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c6f91a685695d7e4feeec5e60434b3c53()" />
+<Entry OldName="SelectAndEvaluate.frmMain.txtHotKey_KeyPress(Object sender, KeyPressEventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c9b4c9637ea533ffb4ef11391987ac7ff(Object c85aed36de41247a0fb3396b188018af8, KeyPressEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMain.helpGuideToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.cf0fed7498377bb5f27a724f0346eecff(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMain.pleaseDonateToolStripMenuItem1_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c80951af1a9158a671d2611b65435f7b8(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMain.dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c8ddb14bc5ae9377343602a7c7d5667b3(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMain.checkForNewVersionEachWeekToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c8f17ee2d1e840174534e1b319b21e0d5(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMain.tiHelpFeedback_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c268caa7c55612fb0bd4592896f934f22(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMain.checkForNewVersionToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c5bf821ec13548f6a1156496a7a9c5821(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMain.followUsOnTwitterToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c1adbc2af8285805175b8b658ca0ae6d2(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMain.visit4dotsSoftwareWebsiteToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.cc69f4012f5b87dcc03c8c8aa6af0055a(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMain.youtubeChannelToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c1fd55a3193cd061b14e0ee6f53f90b2b(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMain.aboutToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c3659e3ce10ae8d5b5505aad8a7f0d151(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMain.exitToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c39b4ff8e288a31744c9bab83b6fb2efc(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMain.minimizeToWindowsSystemTrayToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c791865fe62333d120307cb3f8785c8bd(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMain.notMain_MouseDoubleClick(Object sender, MouseEventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.cc95d3370106046def8f2416551da3e85(Object c85aed36de41247a0fb3396b188018af8, MouseEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMain.btnClose_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c3a719807626fba4a0340647e4fa953e5(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMain.txtHotKey_Enter(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c5ad5f89947dab19a8d446a6124b97e04(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMain.frmMain_Resize(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c68dd6ab00ffe3f68e212ce02d44c7bc3(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMain.txtHotKey_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.cd798eda97b98229e51d0944a035c63d3(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMain.txtHotKey_Validating(Object sender, CancelEventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.cf181886a8d9ab65917e3a9d864496aae(Object c85aed36de41247a0fb3396b188018af8, CancelEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMain.txtHotKey_KeyDown(Object sender, KeyEventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c5623d8ecd7f6fbafa9f501639b3e5385(Object c85aed36de41247a0fb3396b188018af8, KeyEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMain.exitToolStripMenuItem1_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.cc764e68dfd75c3d412ac23f03276eebf(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMain.openToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.cfd7940a71637b80a5f4ed16e4ebca5d7(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMain.runAtWindowsStartupToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c7bb749a43d7fa0c1eb0302aabebfb905(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMain.SetTitle()" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c9c5a45c09195b7fe7be9db998a235963()" />
+<Entry OldName="SelectAndEvaluate.frmMain.copyToClipboardResultToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c8bb19c06a3e42b5c6c6c22b177781b6c(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMain.pasteResultToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c53908b2c43d56b1b22e5708986dfd5b4(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMain.Dispose(Boolean disposing)" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.Dispose(Boolean disposing)" />
+<Entry OldName="SelectAndEvaluate.frmMain.InitializeComponent()" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa.c8cd1efce0e3362ecdb08ac865e5255ef()" />
+<Entry OldName="SelectAndEvaluate.frmMessageCheckbox..ctor()" NewName="A.c4317fa90830b5c38ba663c3c1ca1d5a1..ctor()" />
+<Entry OldName="SelectAndEvaluate.frmMessageCheckbox..ctor(String title, String lblDesc)" NewName="A.c4317fa90830b5c38ba663c3c1ca1d5a1..ctor(String c34eb1c44a120a0298378b33d69158d8d, String c7758ec55ae90727e629f5c6ce236a315)" />
+<Entry OldName="SelectAndEvaluate.frmMessageCheckbox..ctor(String title, String lblDesc, String chkDesc)" NewName="A.c4317fa90830b5c38ba663c3c1ca1d5a1..ctor(String c34eb1c44a120a0298378b33d69158d8d, String c7758ec55ae90727e629f5c6ce236a315, String c467eb37ceb82297a7ef571b364dfaea5)" />
+<Entry OldName="SelectAndEvaluate.frmMessageCheckbox.btnOK_Click(Object sender, EventArgs e)" NewName="A.c4317fa90830b5c38ba663c3c1ca1d5a1.cd46527412781c1fb780b3ca88d9a15fc(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMessageCheckbox.ShowStartupGuideMessage()" NewName="A.c4317fa90830b5c38ba663c3c1ca1d5a1.c0e2c72cc3da344244e6b5594e830d7cf()" />
+<Entry OldName="SelectAndEvaluate.frmMessageCheckbox.ShowTimeOutValueRegistry()" NewName="A.c4317fa90830b5c38ba663c3c1ca1d5a1.c30a9703af02fddd221e092f0f5a54be7()" />
+<Entry OldName="SelectAndEvaluate.frmMessageCheckbox.frmMessageCheckbox_Load(Object sender, EventArgs e)" NewName="A.c4317fa90830b5c38ba663c3c1ca1d5a1.c8f2046c8f68966f4486ea95d243807e4(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.frmMessageCheckbox.Dispose(Boolean disposing)" NewName="A.c4317fa90830b5c38ba663c3c1ca1d5a1.Dispose(Boolean disposing)" />
+<Entry OldName="SelectAndEvaluate.frmMessageCheckbox.InitializeComponent()" NewName="A.c4317fa90830b5c38ba663c3c1ca1d5a1.c8cd1efce0e3362ecdb08ac865e5255ef()" />
+<Entry OldName="SelectAndEvaluate.GlobalHook..ctor()" NewName="A.c039cdb87b315ed39e47e8c5f611d0474..ctor()" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.SetWindowsHookEx(Int32 idHook, HookProc lpfn, IntPtr hMod, Int32 dwThreadId)" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.cef576f4078e436ef26cfaf118ba3cbff(Int32 c5a6ba4c9271afaa4c77845c27c2975c7, c94540f33b5565930e0aa22ca7fb93b08 c8369fc9b11f7c6206c2ea007c926b3cb, IntPtr c264aa8ed78a609349ae47ac6bbd6b3d7, Int32 c917b1e6a58f2fbbb477fad222b1e03fd)" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.UnhookWindowsHookEx(Int32 idHook)" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.cd71f21ec8ee456ca517adf08ea4ee635(Int32 c5a6ba4c9271afaa4c77845c27c2975c7)" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.CallNextHookEx(Int32 idHook, Int32 nCode, Int32 wParam, IntPtr lParam)" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c300fe8be93b7336eeb58cf31b40726ef(Int32 c5a6ba4c9271afaa4c77845c27c2975c7, Int32 cce2e0f0be34b32a38e4e85a7a3f16836, Int32 c471b7b0f338ff25e0f8ce5726ffa51fe, IntPtr c5468d45f1a997261d58882bb3af63097)" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.ToAscii(Int32 uVirtKey, Int32 uScanCode, Byte[] lpbKeyState, Byte[] lpwTransKey, Int32 fuState)" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c068c6e7b47f1ad43378794cc060b06ba(Int32 c872a0bedafe259ba009e8b81d75f29ab, Int32 cd8c5b342ebdbc3ed1805df604dc22a8a, Byte[] cc971b960c9fa2094ce49995fe137b34e, Byte[] c58a96084fd8a9157ed70311e64a9e320, Int32 cce0a47ad1ed5b9d1d52ba974a93c665b)" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.GetKeyboardState(Byte[] pbKeyState)" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c6e092781be45b89a98db3bd5f0e662c8(Byte[] c2d421369ff3d4250b05231b2d4cce6e0)" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.GetKeyState(Int32 vKey)" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c3292f43740f7c99df1f13b1f6791c83b(Int32 cad8d875e2cc1d966ad89e6a67bc25745)" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.get_IsStarted()" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.get_cfcc1a9f5b0db941a06b8c35d875c62a6()" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.Start()" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c451415b2fd3dd774ccce0d3080c5cc4d()" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.Stop()" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c641ffcdca7cc323a3e9901931e118634()" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.HookCallbackProcedure(Int32 nCode, Int32 wParam, IntPtr lParam)" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c3bb93a537d15c1502d652ae6d8c84161(Int32 cce2e0f0be34b32a38e4e85a7a3f16836, Int32 c471b7b0f338ff25e0f8ce5726ffa51fe, IntPtr c5468d45f1a997261d58882bb3af63097)" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.Application_ApplicationExit(Object sender, EventArgs e)" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.ce1729f52887116dc0e46c3b9a9c36369(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.HookingProtector..ctor()" NewName="A.c474b7280d1517d2709c780f4bd97e886..ctor()" />
+<Entry OldName="SelectAndEvaluate.HookingProtector.Setup()" NewName="A.c474b7280d1517d2709c780f4bd97e886.c450edbe699d15014fb729d735d838ac2()" />
+<Entry OldName="SelectAndEvaluate.HookingProtector.BwTimSetHook_DoWork(Object sender, DoWorkEventArgs e)" NewName="A.c474b7280d1517d2709c780f4bd97e886.c6a49fd9782e6b268a4085e222715bfa4(Object c85aed36de41247a0fb3396b188018af8, DoWorkEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.HookingProtector.GetWindowThreadProcessId(IntPtr hWnd, UInt32&amp; ProcessId)" NewName="A.c474b7280d1517d2709c780f4bd97e886.c39f676961052bd041f5fa107b8e9410d(IntPtr ccbd6bf72b0798c5ba9b482fe6b1be01c, UInt32&amp; c385140cdda22beb8d733c75872d5c585)" />
+<Entry OldName="SelectAndEvaluate.HookingProtector.GetForegroundWindow()" NewName="A.c474b7280d1517d2709c780f4bd97e886.c89b793bb54044aba65646e25180314ec()" />
+<Entry OldName="SelectAndEvaluate.HookingProtector.timSetHook_Tick(Object sender, EventArgs e)" NewName="A.c474b7280d1517d2709c780f4bd97e886.c897934a975389d25b76e3bb67f175ee4(Object c85aed36de41247a0fb3396b188018af8, EventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.KeyboardHook..ctor()" NewName="A.cc2b697dc5081ab466b3a80fbeb0f9a70..ctor()" />
+<Entry OldName="SelectAndEvaluate.KeyboardHook..cctor()" NewName="A.cc2b697dc5081ab466b3a80fbeb0f9a70..cctor()" />
+<Entry OldName="SelectAndEvaluate.KeyboardHook.add_KeyDown(KeyEventHandler value)" NewName="A.cc2b697dc5081ab466b3a80fbeb0f9a70.add_cbff4c154e4720241637ea3846a7b0e72(KeyEventHandler c3d3928a9241c2cc8d43258e49694ea14)" />
+<Entry OldName="SelectAndEvaluate.KeyboardHook.remove_KeyDown(KeyEventHandler value)" NewName="A.cc2b697dc5081ab466b3a80fbeb0f9a70.remove_cbff4c154e4720241637ea3846a7b0e72(KeyEventHandler c3d3928a9241c2cc8d43258e49694ea14)" />
+<Entry OldName="SelectAndEvaluate.KeyboardHook.add_KeyUp(KeyEventHandler value)" NewName="A.cc2b697dc5081ab466b3a80fbeb0f9a70.add_c32fa3f633361cb3e7f0ad4c8119208f3(KeyEventHandler c3d3928a9241c2cc8d43258e49694ea14)" />
+<Entry OldName="SelectAndEvaluate.KeyboardHook.remove_KeyUp(KeyEventHandler value)" NewName="A.cc2b697dc5081ab466b3a80fbeb0f9a70.remove_c32fa3f633361cb3e7f0ad4c8119208f3(KeyEventHandler c3d3928a9241c2cc8d43258e49694ea14)" />
+<Entry OldName="SelectAndEvaluate.KeyboardHook.add_KeyPress(KeyPressEventHandler value)" NewName="A.cc2b697dc5081ab466b3a80fbeb0f9a70.add_c73c31f2d7b7029b8c88ee51fed7661ca(KeyPressEventHandler c3d3928a9241c2cc8d43258e49694ea14)" />
+<Entry OldName="SelectAndEvaluate.KeyboardHook.remove_KeyPress(KeyPressEventHandler value)" NewName="A.cc2b697dc5081ab466b3a80fbeb0f9a70.remove_c73c31f2d7b7029b8c88ee51fed7661ca(KeyPressEventHandler c3d3928a9241c2cc8d43258e49694ea14)" />
+<Entry OldName="SelectAndEvaluate.KeyboardHook.HookCallbackProcedure(Int32 nCode, Int32 wParam, IntPtr lParam)" NewName="A.cc2b697dc5081ab466b3a80fbeb0f9a70.c3bb93a537d15c1502d652ae6d8c84161(Int32 cce2e0f0be34b32a38e4e85a7a3f16836, Int32 c471b7b0f338ff25e0f8ce5726ffa51fe, IntPtr c5468d45f1a997261d58882bb3af63097)" />
+<Entry OldName="SelectAndEvaluate.KeyboardSimulator.keybd_event(Byte key, Byte scan, Int32 flags, Int32 extraInfo)" NewName="A.c7c5bdd86bc582a99b668bd93ba1f6737.c8a068a4cc65940d2ef9e709f41378280(Byte c74c70177b21286af61791029cfef8f00, Byte cce6f9cec5f1ff91a6ec59fa13f7e6f4f, Int32 ca4d44a6c7ddb3a2f4ace5c259b9bb776, Int32 c406228f1dba4e5441af54d89500958f9)" />
+<Entry OldName="SelectAndEvaluate.KeyboardSimulator.KeyDown(Keys key)" NewName="A.c7c5bdd86bc582a99b668bd93ba1f6737.cbff4c154e4720241637ea3846a7b0e72(Keys c74c70177b21286af61791029cfef8f00)" />
+<Entry OldName="SelectAndEvaluate.KeyboardSimulator.KeyUp(Keys key)" NewName="A.c7c5bdd86bc582a99b668bd93ba1f6737.c32fa3f633361cb3e7f0ad4c8119208f3(Keys c74c70177b21286af61791029cfef8f00)" />
+<Entry OldName="SelectAndEvaluate.KeyboardSimulator.KeyPress(Keys key)" NewName="A.c7c5bdd86bc582a99b668bd93ba1f6737.c73c31f2d7b7029b8c88ee51fed7661ca(Keys c74c70177b21286af61791029cfef8f00)" />
+<Entry OldName="SelectAndEvaluate.KeyboardSimulator.SimulateStandardShortcut(StandardShortcut shortcut)" NewName="A.c7c5bdd86bc582a99b668bd93ba1f6737.cc9930e376f66e8b12a9649cd76538ab9(c682faf359812933fcd0a7961236531f4 c399dee5a7f5eb9c94aa51f504d0f87e7)" />
+<Entry OldName="SelectAndEvaluate.KeyboardSimulator.ParseKey(Keys key)" NewName="A.c7c5bdd86bc582a99b668bd93ba1f6737.cf330d2ed2e7279885f85d62b4aca22f4(Keys c74c70177b21286af61791029cfef8f00)" />
+<Entry OldName="SelectAndEvaluate.Module..ctor()" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80..ctor()" />
+<Entry OldName="SelectAndEvaluate.Module..cctor()" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80..cctor()" />
+<Entry OldName="SelectAndEvaluate.Module.SendMessage(IntPtr hWnd, Int32 wMsg, Int32 wParam, Int32 lParam)" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.cb91d4d7be4379cdb8e0ccd42a567764e(IntPtr ccbd6bf72b0798c5ba9b482fe6b1be01c, Int32 c9c98a6eb81d73909939dae49078e5dbb, Int32 c471b7b0f338ff25e0f8ce5726ffa51fe, Int32 c5468d45f1a997261d58882bb3af63097)" />
+<Entry OldName="SelectAndEvaluate.Module.LockWindowUpdate(IntPtr hWndLock)" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.ce720ff52920dd7908235e7bf50b88a0f(IntPtr cd458fa71536394a86c21bc063c764ad7)" />
+<Entry OldName="SelectAndEvaluate.Module.WaitNMSeconds(Int32 mseconds)" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.ce0bcf81cd95aa9dd80ccf48536f5f3ac(Int32 c04af250a80bbc32db96ad5b09ddd4bde)" />
+<Entry OldName="SelectAndEvaluate.Module.ShowMessage(String msg)" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c4e924a5ec666d2d0de0cde8af6d2c0d9(String c0194d329765e04c6fffee186417690cc)" />
+<Entry OldName="SelectAndEvaluate.Module.ShowQuestionDialog(String msg, String caption)" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.ca8ca4efca7d6667c15b2bb19e1da31aa(String c0194d329765e04c6fffee186417690cc, String c16fc5eed863b3e02b79d889f869d76a6)" />
+<Entry OldName="SelectAndEvaluate.Module.ShowError(Exception ex)" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c3b987037ead1a43b9c8629727513513a(Exception c01419236d7de97223b45e1a8a05d5c61)" />
+<Entry OldName="SelectAndEvaluate.Module.ShowError(String msg)" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c3b987037ead1a43b9c8629727513513a(String c0194d329765e04c6fffee186417690cc)" />
+<Entry OldName="SelectAndEvaluate.Module.ShowError(String msg, Exception ex)" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c3b987037ead1a43b9c8629727513513a(String c0194d329765e04c6fffee186417690cc, Exception c01419236d7de97223b45e1a8a05d5c61)" />
+<Entry OldName="SelectAndEvaluate.Module.ShowError(String msg, String exstr)" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c3b987037ead1a43b9c8629727513513a(String c0194d329765e04c6fffee186417690cc, String c25186e28de6da28f3a09b5082612ce4b)" />
+<Entry OldName="SelectAndEvaluate.Module.ShowQuestionDialogYesFocus(String msg, String caption)" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.cca522ddfdc0f05eb5dc299a8bd561a8e(String c0194d329765e04c6fffee186417690cc, String c16fc5eed863b3e02b79d889f869d76a6)" />
+<Entry OldName="SelectAndEvaluate.Module.DownloadPage(String uri)" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.c3f81eaa1597a5b06c76596e630091e6c(String c1347b447ed1d802b43d3136ad7e46c5d)" />
+<Entry OldName="SelectAndEvaluate.Module.RunAdminAction(String args)" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80.cf2c980aab78127585258a189bb7a0202(String c2aa5276c470002d0568558ea9fbdf153)" />
+<Entry OldName="SelectAndEvaluate.TranslateHelper..ctor()" NewName="A.c0a7154a9c9641f2e4193c20397b63230..ctor()" />
+<Entry OldName="SelectAndEvaluate.TranslateHelper.Translate(String str)" NewName="A.c0a7154a9c9641f2e4193c20397b63230.c0bffccc3118f5c38ad6c83098a53fe9b(String ce18be61950baa08c08ff4a9ec2e74465)" />
+<Entry OldName="SelectAndEvaluate.NiceLine..ctor()" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07..ctor()" />
+<Entry OldName="SelectAndEvaluate.NiceLine.get_Caption()" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.get_cdbcd42599a934b2f4a5a11a46269e338()" />
+<Entry OldName="SelectAndEvaluate.NiceLine.set_Caption(String value)" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.set_cdbcd42599a934b2f4a5a11a46269e338(String c3d3928a9241c2cc8d43258e49694ea14)" />
+<Entry OldName="SelectAndEvaluate.NiceLine.get_CaptionMarginSpace()" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.get_cb766fb7f01a341573cc7ebd317541a51()" />
+<Entry OldName="SelectAndEvaluate.NiceLine.set_CaptionMarginSpace(Int32 value)" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.set_cb766fb7f01a341573cc7ebd317541a51(Int32 c3d3928a9241c2cc8d43258e49694ea14)" />
+<Entry OldName="SelectAndEvaluate.NiceLine.get_CaptionPadding()" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.get_c141f2474a772d2195bbb5900aee8ccdc()" />
+<Entry OldName="SelectAndEvaluate.NiceLine.set_CaptionPadding(Int32 value)" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.set_c141f2474a772d2195bbb5900aee8ccdc(Int32 c3d3928a9241c2cc8d43258e49694ea14)" />
+<Entry OldName="SelectAndEvaluate.NiceLine.get_LineVerticalAlign()" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.get_c6b9abc93b3d6a98d0fad02e63e1dfc7d()" />
+<Entry OldName="SelectAndEvaluate.NiceLine.set_LineVerticalAlign(LineVerticalAlign value)" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.set_c6b9abc93b3d6a98d0fad02e63e1dfc7d(c1fba512c73e89e3cd7592235bf68737e c3d3928a9241c2cc8d43258e49694ea14)" />
+<Entry OldName="SelectAndEvaluate.NiceLine.get_CaptionOrizontalAlign()" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.get_cc95e4198fcf85a9230b44ce4b87d45b1()" />
+<Entry OldName="SelectAndEvaluate.NiceLine.set_CaptionOrizontalAlign(CaptionOrizontalAlign value)" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.set_cc95e4198fcf85a9230b44ce4b87d45b1(cc236d2e2c45be8b92c64d6df79ac6317 c3d3928a9241c2cc8d43258e49694ea14)" />
+<Entry OldName="SelectAndEvaluate.NiceLine.Dispose(Boolean disposing)" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.Dispose(Boolean disposing)" />
+<Entry OldName="SelectAndEvaluate.NiceLine.InitializeComponent()" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.c8cd1efce0e3362ecdb08ac865e5255ef()" />
+<Entry OldName="SelectAndEvaluate.NiceLine.OnPaint(PaintEventArgs e)" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.OnPaint(PaintEventArgs e)" />
+<Entry OldName="SelectAndEvaluate.NiceLine.OnResize(EventArgs e)" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.OnResize(EventArgs e)" />
+<Entry OldName="SelectAndEvaluate.NiceLine.OnFontChanged(EventArgs e)" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07.OnFontChanged(EventArgs e)" />
+<Entry OldName="SelectAndEvaluate.Program.Main(String[] args)" NewName="A.c15b39df1d855e8e2fb73870fc07f8f60.cab1ff9de53a77bfadffa162df24d5379(String[] c2aa5276c470002d0568558ea9fbdf153)" />
+<Entry OldName="SelectAndEvaluate.RunAtWndowsStartupManager..ctor()" NewName="A.ce8600f29d107360ef4ea482f5647134a..ctor()" />
+<Entry OldName="SelectAndEvaluate.RunAtWndowsStartupManager.get_RunAtWindowsStartup()" NewName="A.ce8600f29d107360ef4ea482f5647134a.get_cd1cb5dca6f917487552e26657938a9c3()" />
+<Entry OldName="SelectAndEvaluate.RunAtWndowsStartupManager.set_RunAtWindowsStartup(Boolean value)" NewName="A.ce8600f29d107360ef4ea482f5647134a.set_cd1cb5dca6f917487552e26657938a9c3(Boolean c3d3928a9241c2cc8d43258e49694ea14)" />
+<Entry OldName="SelectAndEvaluate.ucTextProgressBar..ctor()" NewName="A.c94455cbc55750d70580b4effcf56d1e4..ctor()" />
+<Entry OldName="SelectAndEvaluate.ucTextProgressBar.SetText(String str)" NewName="A.c94455cbc55750d70580b4effcf56d1e4.cf43cded8e4e01a386d778ad6f09b1c1c(String ce18be61950baa08c08ff4a9ec2e74465)" />
+<Entry OldName="SelectAndEvaluate.ucTextProgressBar.UpdatePercentage()" NewName="A.c94455cbc55750d70580b4effcf56d1e4.ce6485ebae1f65bd7f4cc5ea8820912b6()" />
+<Entry OldName="SelectAndEvaluate.ucTextProgressBar.zOnPaint(PaintEventArgs e)" NewName="A.c94455cbc55750d70580b4effcf56d1e4.c8516b7064456a6344bdf6ae290d8ab1c(PaintEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.ucTextProgressBar.WndProc(Message&amp; m)" NewName="A.c94455cbc55750d70580b4effcf56d1e4.WndProc(Message&amp; m)" />
+<Entry OldName="SelectAndEvaluate.ucTextProgressBar.Dispose(Boolean disposing)" NewName="A.c94455cbc55750d70580b4effcf56d1e4.Dispose(Boolean disposing)" />
+<Entry OldName="SelectAndEvaluate.ucTextProgressBar.InitializeComponent()" NewName="A.c94455cbc55750d70580b4effcf56d1e4.c8cd1efce0e3362ecdb08ac865e5255ef()" />
+<Entry OldName="SelectAndEvaluate.UpdateHelper..ctor()" NewName="A.c90fea82130ee16c91ac1affdc7f73c89..ctor()" />
+<Entry OldName="SelectAndEvaluate.UpdateHelper..cctor()" NewName="A.c90fea82130ee16c91ac1affdc7f73c89..cctor()" />
+<Entry OldName="SelectAndEvaluate.UpdateHelper.InitializeCheckVersionWeek()" NewName="A.c90fea82130ee16c91ac1affdc7f73c89.cb112a725f2c7f09de26676d9f399f678()" />
+<Entry OldName="SelectAndEvaluate.UpdateHelper.InitializeCheckVersion()" NewName="A.c90fea82130ee16c91ac1affdc7f73c89.ccdd207285e58aaaac662a42b57f6f6fd()" />
+<Entry OldName="SelectAndEvaluate.UpdateHelper.bwCheckVersion_ProgressChanged(Object sender, ProgressChangedEventArgs e)" NewName="A.c90fea82130ee16c91ac1affdc7f73c89.cb4d71f8548538a80037f85e469ba6ba0(Object c85aed36de41247a0fb3396b188018af8, ProgressChangedEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.UpdateHelper.bwCheckVersion_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)" NewName="A.c90fea82130ee16c91ac1affdc7f73c89.ce4a471bd23758fba9a545d1ba67c3ccf(Object c85aed36de41247a0fb3396b188018af8, RunWorkerCompletedEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.UpdateHelper.bwCheckVersion_DoWork(Object sender, DoWorkEventArgs e)" NewName="A.c90fea82130ee16c91ac1affdc7f73c89.cd66b6a9c585f91204f2a5d4bca8d1bbf(Object c85aed36de41247a0fb3396b188018af8, DoWorkEventArgs c88a8b05aa0342578d59c583d885207ad)" />
+<Entry OldName="SelectAndEvaluate.UpdateHelper.CheckVersionBackground()" NewName="A.c90fea82130ee16c91ac1affdc7f73c89.c2d12b63fac507762485b14b9f00b6cf7()" />
+<Entry OldName="SelectAndEvaluate.UpdateHelper.DownloadPage(String uri)" NewName="A.c90fea82130ee16c91ac1affdc7f73c89.c3f81eaa1597a5b06c76596e630091e6c(String c1347b447ed1d802b43d3136ad7e46c5d)" />
+<Entry OldName="SelectAndEvaluate.UpdateHelper.CheckVersion(Boolean onstart)" NewName="A.c90fea82130ee16c91ac1affdc7f73c89.c2d04dd9662672ccbe25dab5017d64658(Boolean ccae46a43609409e942e8a671aedbce85)" />
+<Entry OldName="SelectAndEvaluate.CheckVersionResult..ctor()" NewName="A.c4d3a70f9cd26d69f7afd3a9c35c15d98..ctor()" />
+<Entry OldName="SelectAndEvaluate.URLLinkLabel..ctor()" NewName="A.c9924b111d8fc550252d6ccd18233ff03..ctor()" />
+<Entry OldName="SelectAndEvaluate.URLLinkLabel.OnClick(EventArgs e)" NewName="A.c9924b111d8fc550252d6ccd18233ff03.OnClick(EventArgs e)" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources..ctor()" NewName="A.c43e4afe39b031d9bb10a751d840508ba..ctor()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_ResourceManager()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_ResourceManager()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_Culture()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_Culture()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.c43e4afe39b031d9bb10a751d840508ba.set_Culture(CultureInfo value)" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get__4dots_logo_official()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get__4dots_logo_official()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_about()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_about()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_add()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_add()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_add1()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_add1()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_arrow_down_green()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_arrow_down_green()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_arrow_left_blue()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_arrow_left_blue()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_arrow_right_blue()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_arrow_right_blue()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_arrow_up_green()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_arrow_up_green()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_brush2()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_brush2()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_brush4()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_brush4()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_bullet_ball_glass_blue()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_bullet_ball_glass_blue()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_bullet_ball_glass_blue_16()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_bullet_ball_glass_blue_16()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_bullet_ball_glass_green()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_bullet_ball_glass_green()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_bullet_ball_glass_red()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_bullet_ball_glass_red()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_bullet_ball_glass_yellow()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_bullet_ball_glass_yellow()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_cart_icon_b_24()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_cart_icon_b_24()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_check()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_check()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_copy()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_copy()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_cut()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_cut()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_delete()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_delete()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_delete1()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_delete1()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_disk_blue()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_disk_blue()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_document_preferences()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_document_preferences()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_earth()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_earth()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_edit()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_edit()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_exit()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_exit()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_exit1()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_exit1()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_facebook_24()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_facebook_24()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_facebook_32()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_facebook_32()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_flash()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_flash()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_flash1()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_flash1()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_folder()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_folder()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_folder_add()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_folder_add()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_folder1()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_folder1()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_googleplus_24()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_googleplus_24()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_help2()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_help2()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_import1()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_import1()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_information()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_information()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_key1()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_key1()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_linkedin_24()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_linkedin_24()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_mail()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_mail()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_media_pause()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_media_pause()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_media_stop()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_media_stop()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_navigate_beginning()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_navigate_beginning()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_navigate_end()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_navigate_end()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_paypal_donate()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_paypal_donate()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_preferences()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_preferences()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_select_and_calculate()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_select_and_calculate()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_twitter_24()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_twitter_24()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_twitter_32()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_twitter_32()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_warning()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_warning()" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources.get_youtube_32()" NewName="A.c43e4afe39b031d9bb10a751d840508ba.get_youtube_32()" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.POINT..ctor()" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c12badf3e9161de27c7481e047dbb9d1b..ctor()" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.MouseHookStruct..ctor()" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c1f3de133f83873e461e2b74586f1f90d..ctor()" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.MouseLLHookStruct..ctor()" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c5baee6b0f75b7c289b8110804f32c2d6..ctor()" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.KeyboardHookStruct..ctor()" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c54501fdad099da493eed9bc7eeea7ed8..ctor()" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.HookProc..ctor(Object object, IntPtr method)" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c94540f33b5565930e0aa22ca7fb93b08..ctor(Object object, IntPtr method)" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.HookProc.Invoke(Int32 nCode, Int32 wParam, IntPtr lParam)" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c94540f33b5565930e0aa22ca7fb93b08.Invoke(Int32 nCode, Int32 wParam, IntPtr lParam)" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.HookProc.BeginInvoke(Int32 nCode, Int32 wParam, IntPtr lParam, AsyncCallback callback, Object object)" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c94540f33b5565930e0aa22ca7fb93b08.BeginInvoke(Int32 nCode, Int32 wParam, IntPtr lParam, AsyncCallback callback, Object object)" />
+<Entry OldName="SelectAndEvaluate.GlobalHook.HookProc.EndInvoke(IAsyncResult result)" NewName="A.c039cdb87b315ed39e47e8c5f611d0474.c94540f33b5565930e0aa22ca7fb93b08.EndInvoke(IAsyncResult result)" />
+<Entry OldName="SelectAndEvaluate.CPUUsageMeter" NewName="A.ca8c1abdbccc8aed2d48833a3f404226f" />
+<Entry OldName="SelectAndEvaluate.CustomForm" NewName="A.cf45d290d050e09d3f2b993b9f15b3472" />
+<Entry OldName="SelectAndEvaluate.ExceptionHandlersHelper" NewName="A.c5adea92bc8528127188148270b7f7b8c" />
+<Entry OldName="SelectAndEvaluate.frmAbout" NewName="A.cbfb80f8b698f6a45237b2ec973f7bd5a" />
+<Entry OldName="SelectAndEvaluate.frmDownloadUpdate" NewName="A.cf0a052401509b5fe1a216c3facb67c5f" />
+<Entry OldName="SelectAndEvaluate.frmError" NewName="A.cae9574d1518bacf095666b9dd2e78ddb" />
+<Entry OldName="SelectAndEvaluate.frmMain" NewName="A.c4a2b6fac7ae5f8319ce809f6f11d0bfa" />
+<Entry OldName="SelectAndEvaluate.frmMessageCheckbox" NewName="A.c4317fa90830b5c38ba663c3c1ca1d5a1" />
+<Entry OldName="SelectAndEvaluate.GlobalHook+POINT" NewName="A.c039cdb87b315ed39e47e8c5f611d0474+c12badf3e9161de27c7481e047dbb9d1b" />
+<Entry OldName="SelectAndEvaluate.GlobalHook+MouseHookStruct" NewName="A.c039cdb87b315ed39e47e8c5f611d0474+c1f3de133f83873e461e2b74586f1f90d" />
+<Entry OldName="SelectAndEvaluate.GlobalHook+MouseLLHookStruct" NewName="A.c039cdb87b315ed39e47e8c5f611d0474+c5baee6b0f75b7c289b8110804f32c2d6" />
+<Entry OldName="SelectAndEvaluate.GlobalHook+KeyboardHookStruct" NewName="A.c039cdb87b315ed39e47e8c5f611d0474+c54501fdad099da493eed9bc7eeea7ed8" />
+<Entry OldName="SelectAndEvaluate.GlobalHook+HookProc" NewName="A.c039cdb87b315ed39e47e8c5f611d0474+c94540f33b5565930e0aa22ca7fb93b08" />
+<Entry OldName="SelectAndEvaluate.GlobalHook" NewName="A.c039cdb87b315ed39e47e8c5f611d0474" />
+<Entry OldName="SelectAndEvaluate.HookingProtector" NewName="A.c474b7280d1517d2709c780f4bd97e886" />
+<Entry OldName="SelectAndEvaluate.KeyboardHook" NewName="A.cc2b697dc5081ab466b3a80fbeb0f9a70" />
+<Entry OldName="SelectAndEvaluate.StandardShortcut" NewName="A.c682faf359812933fcd0a7961236531f4" />
+<Entry OldName="SelectAndEvaluate.KeyboardSimulator" NewName="A.c7c5bdd86bc582a99b668bd93ba1f6737" />
+<Entry OldName="SelectAndEvaluate.Module" NewName="A.cb04fb1ee3d19f901fee06c01b0ab0e80" />
+<Entry OldName="SelectAndEvaluate.TranslateHelper" NewName="A.c0a7154a9c9641f2e4193c20397b63230" />
+<Entry OldName="SelectAndEvaluate.NiceLine" NewName="A.c6b9f55051e8aade5cf65fd591bf53d07" />
+<Entry OldName="SelectAndEvaluate.LineVerticalAlign" NewName="A.c1fba512c73e89e3cd7592235bf68737e" />
+<Entry OldName="SelectAndEvaluate.CaptionOrizontalAlign" NewName="A.cc236d2e2c45be8b92c64d6df79ac6317" />
+<Entry OldName="SelectAndEvaluate.Program" NewName="A.c15b39df1d855e8e2fb73870fc07f8f60" />
+<Entry OldName="SelectAndEvaluate.RunAtWndowsStartupManager" NewName="A.ce8600f29d107360ef4ea482f5647134a" />
+<Entry OldName="SelectAndEvaluate.ucTextProgressBar" NewName="A.c94455cbc55750d70580b4effcf56d1e4" />
+<Entry OldName="SelectAndEvaluate.UpdateHelper" NewName="A.c90fea82130ee16c91ac1affdc7f73c89" />
+<Entry OldName="SelectAndEvaluate.CheckVersionResult" NewName="A.c4d3a70f9cd26d69f7afd3a9c35c15d98" />
+<Entry OldName="SelectAndEvaluate.URLLinkLabel" NewName="A.c9924b111d8fc550252d6ccd18233ff03" />
+<Entry OldName="SelectAndEvaluate.Properties.Resources" NewName="A.c43e4afe39b031d9bb10a751d840508ba" />
+<Assembly Name="SelectAndEvaluate"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="SelectAndEvaluate.CPUUsageMeter" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663300" Name="get_CPUUsageHigh" Variables="usage;isNotResponding;HighUsage;V_3;" ParamCnt="0" />
+<Field Token="67108865" Name="cpuCounter" />
+<Type Token="33554436" Name="SelectAndEvaluate.CustomForm" />
+<Method Token="100663302" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663303" Name="OnResize" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663304" Name="OnPaintBackground" Variables="this;e;x;y;lgBrush;V_3;" ParamCnt="2" />
+<Method Token="100663305" Name="OnLoad" Variables="this;e;V_0;co;V_2;V_3;V_4;V_5;ex;" ParamCnt="2" />
+<Method Token="100663306" Name="CustomForm_Activated" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663307" Name="OnActivated" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663308" Name="ResizeControls" Variables="this;V_0;k;V_2;k;left;right;top;bottom;height;V_9;j;V_11;V_12;V_13;chk;V_15;chk;V_17;chk;V_19;V_20;" ParamCnt="1" />
+<Method Token="100663309" Name="ResizeChildControls" Variables="this;co;k;V_1;k;left;right;top;bottom;height;V_8;j;V_10;V_11;V_12;chk;V_14;chk;V_16;chk;V_18;V_19;" ParamCnt="2" />
+<Method Token="100663310" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663311" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108866" Name="LoadComplete" />
+<Field Token="67108867" Name="BackGroundImg" />
+<Field Token="67108868" Name="GradientBackground" />
+<Field Token="67108869" Name="tooltip" />
+<Field Token="67108870" Name="components" />
+<Type Token="33554437" Name="SelectAndEvaluate.ExceptionHandlersHelper" />
+<Method Token="100663312" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663313" Name="AddUnhandledExceptionHandlers" Variables="" ParamCnt="0" />
+<Method Token="100663314" Name="myExceptionHandler" Variables="sender;e;ex;" ParamCnt="2" />
+<Method Token="100663315" Name="myThreadExceptionHandler" Variables="sender;e;" ParamCnt="2" />
+<Type Token="33554439" Name="SelectAndEvaluate.frmAbout" />
+<Method Token="100663322" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663323" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663324" Name="frmAbout_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663325" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663326" Name="btnDonate_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663327" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663328" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108872" Name="lblf" />
+<Field Token="67108873" Name="bufluf" />
+<Field Token="67108874" Name="lstbufluf" />
+<Field Token="67108875" Name="LDT" />
+<Field Token="67108876" Name="components" />
+<Field Token="67108877" Name="lblAbout" />
+<Field Token="67108878" Name="btnClose" />
+<Field Token="67108879" Name="pictureBox1" />
+<Field Token="67108880" Name="linkLabel1" />
+<Field Token="67108881" Name="label1" />
+<Field Token="67108882" Name="label2" />
+<Field Token="67108883" Name="linkLabel2" />
+<Field Token="67108884" Name="niceLine1" />
+<Field Token="67108885" Name="niceLine3" />
+<Field Token="67108886" Name="label3" />
+<Field Token="67108887" Name="ullProductWebpage" />
+<Field Token="67108888" Name="lblRegistered" />
+<Field Token="67108889" Name="btnDonate" />
+<Field Token="67108890" Name="niceLine2" />
+<Field Token="67108891" Name="niceLine4" />
+<Field Token="67108892" Name="label4" />
+<Field Token="67108893" Name="urlLinkLabel1" />
+<Type Token="33554440" Name="SelectAndEvaluate.frmDownloadUpdate" />
+<Method Token="100663329" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663330" Name="get_DownloadFile" Variables="this;V_0;spos;file;tempdir;V_4;" ParamCnt="1" />
+<Method Token="100663331" Name="get_DownloadURL" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663332" Name="frmDownloadUpdate_Load" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663333" Name="client_DownloadFileCompleted" Variables="this;sender;e;V_0;ex;" ParamCnt="3" />
+<Method Token="100663334" Name="client_DownloadProgressChanged" Variables="this;sender;e;ukb;umb;V_2;" ParamCnt="3" />
+<Method Token="100663335" Name="GetEXEDownloadURL" Variables="this;durl;V_1;spos;program;V_4;V_5;" ParamCnt="1" />
+<Method Token="100663336" Name="btnCancelDownload_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663337" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663338" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108894" Name="_DownloadFile" />
+<Field Token="67108895" Name="client" />
+<Field Token="67108896" Name="Cancelled" />
+<Field Token="67108897" Name="components" />
+<Field Token="67108898" Name="pgBar" />
+<Field Token="67108899" Name="btnCancelDownload" />
+<Field Token="67108900" Name="bwDownload" />
+<Field Token="67108901" Name="label1" />
+<Field Token="67108902" Name="lblTotalSize" />
+<Type Token="33554441" Name="SelectAndEvaluate.frmError" />
+<Method Token="100663339" Name=".ctor" Variables="this;lbl;txt;" ParamCnt="3" />
+<Method Token="100663340" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663341" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663342" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108903" Name="components" />
+<Field Token="67108904" Name="txtError" />
+<Field Token="67108905" Name="pictureBox1" />
+<Field Token="67108906" Name="lblError" />
+<Field Token="67108907" Name="btnClose" />
+<Type Token="33554442" Name="SelectAndEvaluate.frmMain" />
+<Method Token="100663343" Name=".ctor" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663344" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663345" Name="frmMain_Load" Variables="this;sender;e;V_0;V_1;fm;V_3;V_4;V_5;k;V_7;V_8;V_9;V_10;" ParamCnt="3" />
+<Method Token="100663346" Name="keyboardHook_KeyPress" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663347" Name="keyboardHook_KeyUp" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663348" Name="keyboardHook_KeyDown" Variables="this;sender;e;V_0;cancel;V_2;V_3;V_4;V_5;V_6;V_7;" ParamCnt="3" />
+<Method Token="100663349" Name="Calculate" Variables="this;str;expression;result;V_3;ex;V_5;" ParamCnt="1" />
+<Method Token="100663350" Name="txtHotKey_KeyPress" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663351" Name="helpGuideToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663352" Name="pleaseDonateToolStripMenuItem1_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663353" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663354" Name="checkForNewVersionEachWeekToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663355" Name="tiHelpFeedback_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663356" Name="checkForNewVersionToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663357" Name="followUsOnTwitterToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663358" Name="visit4dotsSoftwareWebsiteToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663359" Name="youtubeChannelToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663360" Name="aboutToolStripMenuItem_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663361" Name="exitToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663362" Name="minimizeToWindowsSystemTrayToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663363" Name="notMain_MouseDoubleClick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663364" Name="btnClose_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663365" Name="txtHotKey_Enter" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663366" Name="frmMain_Resize" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663367" Name="txtHotKey_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663368" Name="txtHotKey_Validating" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663369" Name="txtHotKey_KeyDown" Variables="this;sender;e;if13;if14;if15;if16;if17;vkCode;V_6;V_7;V_8;" ParamCnt="3" />
+<Method Token="100663370" Name="exitToolStripMenuItem1_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663371" Name="openToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663372" Name="runAtWindowsStartupToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663373" Name="SetTitle" Variables="this;str;V_1;V_2;" ParamCnt="1" />
+<Method Token="100663374" Name="copyToClipboardResultToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663375" Name="pasteResultToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663376" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663377" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108908" Name="keyboardHook" />
+<Field Token="67108909" Name="HotKeyChar" />
+<Field Token="67108910" Name="HookingProtector" />
+<Field Token="67108911" Name="Instance" />
+<Field Token="67108912" Name="ControlCIsPressed" />
+<Field Token="67108913" Name="sc" />
+<Field Token="67108914" Name="FreeForPersonalUse" />
+<Field Token="67108915" Name="FreeForPersonalAndCommercialUse" />
+<Field Token="67108916" Name="components" />
+<Field Token="67108917" Name="notMain" />
+<Field Token="67108918" Name="label1" />
+<Field Token="67108919" Name="label2" />
+<Field Token="67108920" Name="txtHotKey" />
+<Field Token="67108921" Name="label3" />
+<Field Token="67108922" Name="msMain" />
+<Field Token="67108923" Name="fileToolStripMenuItem" />
+<Field Token="67108924" Name="exitToolStripMenuItem" />
+<Field Token="67108925" Name="helpToolStripMenuItem" />
+<Field Token="67108926" Name="helpGuideToolStripMenuItem" />
+<Field Token="67108927" Name="pleaseDonateToolStripMenuItem1" />
+<Field Token="67108928" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem" />
+<Field Token="67108929" Name="checkForNewVersionEachWeekToolStripMenuItem" />
+<Field Token="67108930" Name="tiHelpFeedback" />
+<Field Token="67108931" Name="checkForNewVersionToolStripMenuItem" />
+<Field Token="67108932" Name="toolStripMenuItem1" />
+<Field Token="67108933" Name="followUsOnTwitterToolStripMenuItem" />
+<Field Token="67108934" Name="visit4dotsSoftwareWebsiteToolStripMenuItem" />
+<Field Token="67108935" Name="youtubeChannelToolStripMenuItem" />
+<Field Token="67108936" Name="aboutToolStripMenuItem" />
+<Field Token="67108937" Name="btnClose" />
+<Field Token="67108938" Name="downloadSoftwareToolStripMenuItem" />
+<Field Token="67108939" Name="label4" />
+<Field Token="67108940" Name="txtTestBox" />
+<Field Token="67108941" Name="optionsToolStripMenuItem" />
+<Field Token="67108942" Name="runAtWindowsStartupToolStripMenuItem" />
+<Field Token="67108943" Name="cmsMain" />
+<Field Token="67108944" Name="openToolStripMenuItem" />
+<Field Token="67108945" Name="exitToolStripMenuItem1" />
+<Field Token="67108946" Name="toolStripMenuItem3" />
+<Field Token="67108947" Name="copyToClipboardResultToolStripMenuItem" />
+<Field Token="67108948" Name="pasteResultToolStripMenuItem" />
+<Field Token="67108949" Name="minimizeToWindowsSystemTrayToolStripMenuItem" />
+<Field Token="67108950" Name="chkControl" />
+<Field Token="67108951" Name="chkAlt" />
+<Field Token="67108952" Name="chkShift" />
+<Type Token="33554443" Name="SelectAndEvaluate.frmMessageCheckbox" />
+<Method Token="100663378" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663379" Name=".ctor" Variables="this;title;lblDesc;" ParamCnt="3" />
+<Method Token="100663380" Name=".ctor" Variables="this;title;lblDesc;chkDesc;V_0;" ParamCnt="4" />
+<Method Token="100663381" Name="btnOK_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663382" Name="ShowStartupGuideMessage" Variables="" ParamCnt="0" />
+<Method Token="100663383" Name="ShowTimeOutValueRegistry" Variables="" ParamCnt="0" />
+<Method Token="100663384" Name="frmMessageCheckbox_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663385" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663386" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108953" Name="components" />
+<Field Token="67108954" Name="chkOption" />
+<Field Token="67108955" Name="lblOption" />
+<Field Token="67108956" Name="btnOK" />
+<Type Token="33554444" Name="SelectAndEvaluate.GlobalHook" />
+<Method Token="100663387" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663388" Name="SetWindowsHookEx" Variables="idHook;lpfn;hMod;dwThreadId;" ParamCnt="4" />
+<Method Token="100663389" Name="UnhookWindowsHookEx" Variables="idHook;" ParamCnt="1" />
+<Method Token="100663390" Name="CallNextHookEx" Variables="idHook;nCode;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663391" Name="ToAscii" Variables="uVirtKey;uScanCode;lpbKeyState;lpwTransKey;fuState;" ParamCnt="5" />
+<Method Token="100663392" Name="GetKeyboardState" Variables="pbKeyState;" ParamCnt="1" />
+<Method Token="100663393" Name="GetKeyState" Variables="vKey;" ParamCnt="1" />
+<Method Token="100663394" Name="get_IsStarted" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663395" Name="Start" Variables="this;V_0;V_1;" ParamCnt="1" />
+<Method Token="100663396" Name="Stop" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663397" Name="HookCallbackProcedure" Variables="this;nCode;wParam;lParam;V_0;" ParamCnt="4" />
+<Method Token="100663398" Name="Application_ApplicationExit" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Field Token="67108957" Name="WH_MOUSE_LL" />
+<Field Token="67108958" Name="WH_KEYBOARD_LL" />
+<Field Token="67108959" Name="WH_MOUSE" />
+<Field Token="67108960" Name="WH_KEYBOARD" />
+<Field Token="67108961" Name="WM_MOUSEMOVE" />
+<Field Token="67108962" Name="WM_LBUTTONDOWN" />
+<Field Token="67108963" Name="WM_RBUTTONDOWN" />
+<Field Token="67108964" Name="WM_MBUTTONDOWN" />
+<Field Token="67108965" Name="WM_LBUTTONUP" />
+<Field Token="67108966" Name="WM_RBUTTONUP" />
+<Field Token="67108967" Name="WM_MBUTTONUP" />
+<Field Token="67108968" Name="WM_LBUTTONDBLCLK" />
+<Field Token="67108969" Name="WM_RBUTTONDBLCLK" />
+<Field Token="67108970" Name="WM_MBUTTONDBLCLK" />
+<Field Token="67108971" Name="WM_MOUSEWHEEL" />
+<Field Token="67108972" Name="WM_KEYDOWN" />
+<Field Token="67108973" Name="WM_KEYUP" />
+<Field Token="67108974" Name="WM_SYSKEYDOWN" />
+<Field Token="67108975" Name="WM_SYSKEYUP" />
+<Field Token="67108976" Name="VK_SHIFT" />
+<Field Token="67108977" Name="VK_CAPITAL" />
+<Field Token="67108978" Name="VK_NUMLOCK" />
+<Field Token="67108979" Name="VK_LSHIFT" />
+<Field Token="67108980" Name="VK_RSHIFT" />
+<Field Token="67108981" Name="VK_LCONTROL" />
+<Field Token="67108982" Name="VK_RCONTROL" />
+<Field Token="67108983" Name="VK_LALT" />
+<Field Token="67108984" Name="VK_RALT" />
+<Field Token="67108985" Name="LLKHF_ALTDOWN" />
+<Field Token="67108986" Name="WM_NCMOUSEMOVE" />
+<Field Token="67108987" Name="WM_NCMOUSELEAVE" />
+<Field Token="67108988" Name="WM_NCLBUTTONDOWN" />
+<Field Token="67108989" Name="WM_NCHITTEST" />
+<Field Token="67108990" Name="_hookType" />
+<Field Token="67108991" Name="_handleToHook" />
+<Field Token="67108992" Name="_isStarted" />
+<Field Token="67108993" Name="_hookCallback" />
+<Type Token="33554445" Name="SelectAndEvaluate.HookingProtector" />
+<Method Token="100663399" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663400" Name="Setup" Variables="this;" ParamCnt="1" />
+<Method Token="100663401" Name="BwTimSetHook_DoWork" Variables="this;sender;e;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663402" Name="GetWindowThreadProcessId" Variables="hWnd;ProcessId;" ParamCnt="2" />
+<Method Token="100663403" Name="GetForegroundWindow" Variables="" ParamCnt="0" />
+<Method Token="100663404" Name="timSetHook_Tick" Variables="this;sender;e;V_0;cw;procid;suc;V_4;V_5;V_6;V_7;V_8;V_9;svisible;sminimize;proc;V_13;V_14;time;V_16;exm;" ParamCnt="3" />
+<Field Token="67108994" Name="timSetHookEnabled" />
+<Field Token="67108995" Name="bwTimSetHook" />
+<Field Token="67108996" Name="InTimSetHook" />
+<Type Token="33554446" Name="SelectAndEvaluate.KeyboardHook" />
+<Method Token="100663405" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663406" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663407" Name="add_KeyDown" Variables="this;value;V_0;V_1;V_2;" ParamCnt="2" />
+<Method Token="100663408" Name="remove_KeyDown" Variables="this;value;V_0;V_1;V_2;" ParamCnt="2" />
+<Method Token="100663409" Name="add_KeyUp" Variables="this;value;V_0;V_1;V_2;" ParamCnt="2" />
+<Method Token="100663410" Name="remove_KeyUp" Variables="this;value;V_0;V_1;V_2;" ParamCnt="2" />
+<Method Token="100663411" Name="add_KeyPress" Variables="this;value;V_0;V_1;V_2;" ParamCnt="2" />
+<Method Token="100663412" Name="remove_KeyPress" Variables="this;value;V_0;V_1;V_2;" ParamCnt="2" />
+<Method Token="100663413" Name="HookCallbackProcedure" Variables="this;nCode;wParam;lParam;handled;V_1;keyboardHookStruct;vkCode;if13;if14;if15;if16;if17;control;shift;alt;capslock;e;V_14;V_15;V_16;V_17;V_18;V_19;V_20;V_21;keyState;inBuffer;V_24;key;e2;V_27;V_28;" ParamCnt="4" />
+<Field Token="67108997" Name="KeyDown" />
+<Field Token="67108998" Name="KeyUp" />
+<Field Token="67108999" Name="KeyPress" />
+<Field Token="67109000" Name="CheckSetHookTimer" />
+<Type Token="33554447" Name="SelectAndEvaluate.StandardShortcut" />
+<Field Token="67109001" Name="value__" />
+<Field Token="67109002" Name="Copy" />
+<Field Token="67109003" Name="Cut" />
+<Field Token="67109004" Name="Paste" />
+<Field Token="67109005" Name="SelectAll" />
+<Field Token="67109006" Name="Save" />
+<Field Token="67109007" Name="Open" />
+<Field Token="67109008" Name="New" />
+<Field Token="67109009" Name="Close" />
+<Field Token="67109010" Name="Print" />
+<Type Token="33554449" Name="SelectAndEvaluate.KeyboardSimulator" />
+<Method Token="100663417" Name="keybd_event" Variables="key;scan;flags;extraInfo;" ParamCnt="4" />
+<Method Token="100663418" Name="KeyDown" Variables="key;" ParamCnt="1" />
+<Method Token="100663419" Name="KeyUp" Variables="key;" ParamCnt="1" />
+<Method Token="100663420" Name="KeyPress" Variables="key;" ParamCnt="1" />
+<Method Token="100663421" Name="SimulateStandardShortcut" Variables="shortcut;V_0;V_1;" ParamCnt="1" />
+<Method Token="100663422" Name="ParseKey" Variables="key;V_0;V_1;V_2;" ParamCnt="1" />
+<Field Token="67109012" Name="KEYEVENTF_EXTENDEDKEY" />
+<Field Token="67109013" Name="KEYEVENTF_KEYUP" />
+<Type Token="33554450" Name="SelectAndEvaluate.Module" />
+<Method Token="100663423" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663424" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663425" Name="SendMessage" Variables="hWnd;wMsg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663426" Name="LockWindowUpdate" Variables="hWndLock;" ParamCnt="1" />
+<Method Token="100663427" Name="WaitNMSeconds" Variables="mseconds;_desired;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663428" Name="ShowMessage" Variables="msg;" ParamCnt="1" />
+<Method Token="100663429" Name="ShowQuestionDialog" Variables="msg;caption;V_0;" ParamCnt="2" />
+<Method Token="100663430" Name="ShowError" Variables="ex;" ParamCnt="1" />
+<Method Token="100663431" Name="ShowError" Variables="msg;f;" ParamCnt="1" />
+<Method Token="100663432" Name="ShowError" Variables="msg;ex;" ParamCnt="2" />
+<Method Token="100663433" Name="ShowError" Variables="msg;exstr;" ParamCnt="2" />
+<Method Token="100663434" Name="ShowQuestionDialogYesFocus" Variables="msg;caption;V_0;" ParamCnt="2" />
+<Method Token="100663435" Name="DownloadPage" Variables="uri;client;data;reader;s;V_4;ex;" ParamCnt="1" />
+<Method Token="100663436" Name="RunAdminAction" Variables="args;pr;V_1;V_2;V_3;" ParamCnt="1" />
+<Field Token="67109014" Name="BlueForeColor" />
+<Field Token="67109015" Name="ApplicationName" />
+<Field Token="67109016" Name="Version" />
+<Field Token="67109017" Name="Ver" />
+<Field Token="67109018" Name="ShortApplicationTitle" />
+<Field Token="67109019" Name="ApplicationTitle" />
+<Field Token="67109020" Name="DownloadURL" />
+<Field Token="67109021" Name="HelpURL" />
+<Field Token="67109022" Name="ProductWebpageURL" />
+<Field Token="67109023" Name="BuyURL" />
+<Field Token="67109024" Name="VersionURL" />
+<Field Token="67109025" Name="NumberOfFilesProcessed" />
+<Field Token="67109026" Name="TipText" />
+<Field Token="67109027" Name="SelectedLanguage" />
+<Field Token="67109028" Name="args" />
+<Type Token="33554451" Name="SelectAndEvaluate.TranslateHelper" />
+<Method Token="100663437" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663438" Name="Translate" Variables="str;V_0;" ParamCnt="1" />
+<Type Token="33554453" Name="SelectAndEvaluate.NiceLine" />
+<Method Token="100663446" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663447" Name="get_Caption" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663448" Name="set_Caption" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663449" Name="get_CaptionMarginSpace" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663450" Name="set_CaptionMarginSpace" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663451" Name="get_CaptionPadding" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663452" Name="set_CaptionPadding" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663453" Name="get_LineVerticalAlign" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663454" Name="set_LineVerticalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663455" Name="get_CaptionOrizontalAlign" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663456" Name="set_CaptionOrizontalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663457" Name="Dispose" Variables="this;disposing;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663458" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Method Token="100663459" Name="OnPaint" Variables="this;e;ym;captionSizeF;captionLength;beforeCaption;afterCaption;V_5;V_6;V_7;V_8;V_9;V_10;V_11;" ParamCnt="2" />
+<Method Token="100663460" Name="OnResize" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663461" Name="OnFontChanged" Variables="this;e;" ParamCnt="2" />
+<Field Token="67109035" Name="components" />
+<Field Token="67109036" Name="_Caption" />
+<Field Token="67109037" Name="_CaptionMarginSpace" />
+<Field Token="67109038" Name="_CaptionPadding" />
+<Field Token="67109039" Name="_LineVerticalAlign" />
+<Field Token="67109040" Name="_CaptionOrizontalAlign" />
+<Type Token="33554454" Name="SelectAndEvaluate.LineVerticalAlign" />
+<Field Token="67109041" Name="value__" />
+<Field Token="67109042" Name="Top" />
+<Field Token="67109043" Name="Middle" />
+<Field Token="67109044" Name="Bottom" />
+<Type Token="33554455" Name="SelectAndEvaluate.CaptionOrizontalAlign" />
+<Field Token="67109045" Name="value__" />
+<Field Token="67109046" Name="Left" />
+<Field Token="67109047" Name="Center" />
+<Field Token="67109048" Name="Right" />
+<Type Token="33554456" Name="SelectAndEvaluate.Program" />
+<Method Token="100663462" Name="Main" Variables="args;V_0;" ParamCnt="1" />
+<Type Token="33554457" Name="SelectAndEvaluate.RunAtWndowsStartupManager" />
+<Method Token="100663463" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663464" Name="get_RunAtWindowsStartup" Variables="key;V_1;" ParamCnt="0" />
+<Method Token="100663465" Name="set_RunAtWindowsStartup" Variables="value;enable;key;V_2;V_3;V_4;V_5;ex;" ParamCnt="1" />
+<Type Token="33554458" Name="SelectAndEvaluate.ucTextProgressBar" />
+<Method Token="100663466" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663467" Name="SetText" Variables="this;str;V_0;" ParamCnt="2" />
+<Method Token="100663468" Name="UpdatePercentage" Variables="this;curval;maxval;perc;" ParamCnt="1" />
+<Method Token="100663469" Name="zOnPaint" Variables="this;e;curval;maxval;perc;rangerect;font;brBack;V_6;fillBrush;sPoint;V_9;p;" ParamCnt="2" />
+<Method Token="100663470" Name="WndProc" Variables="this;m;V_0;V_1;graphics;font;textSize;" ParamCnt="2" />
+<Method Token="100663471" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663472" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67109049" Name="lblText" />
+<Field Token="67109050" Name="WmPaint" />
+<Field Token="67109051" Name="components" />
+<Type Token="33554459" Name="SelectAndEvaluate.UpdateHelper" />
+<Method Token="100663473" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663474" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663475" Name="InitializeCheckVersionWeek" Variables="lastcheck;V_1;month;day;year;dtlast;V_6;V_7;V_8;" ParamCnt="0" />
+<Method Token="100663476" Name="InitializeCheckVersion" Variables="" ParamCnt="0" />
+<Method Token="100663477" Name="bwCheckVersion_ProgressChanged" Variables="sender;e;res;V_1;V_2;V_3;fdu;resq;V_6;fdu;" ParamCnt="2" />
+<Method Token="100663478" Name="bwCheckVersion_RunWorkerCompleted" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663479" Name="bwCheckVersion_DoWork" Variables="sender;e;res;" ParamCnt="2" />
+<Method Token="100663480" Name="CheckVersionBackground" Variables="onstart;res;str;V_3;V_4;V_5;epos;price;V_8;sr;line;found;epos;title;version;app;V_16;verdotpos;vermajor;verminor;curverepos;V_21;curver;dotpos;curmajor;curminor;V_26;V_27;V_28;V_29;V_30;V_31;V_32;V_33;V_34;" ParamCnt="0" />
+<Method Token="100663481" Name="DownloadPage" Variables="uri;client;data;reader;s;V_4;ex;" ParamCnt="1" />
+<Method Token="100663482" Name="CheckVersion" Variables="onstart;str;V_1;sr;line;found;epos;title;version;epos2;app;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;" ParamCnt="1" />
+<Field Token="67109052" Name="bwCheckVersion" />
+<Type Token="33554460" Name="SelectAndEvaluate.CheckVersionResult" />
+<Method Token="100663483" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109053" Name="NewVersionReleased" />
+<Field Token="67109054" Name="ItIsNecessaryToUpdate" />
+<Field Token="67109055" Name="OutputMessage" />
+<Type Token="33554461" Name="SelectAndEvaluate.URLLinkLabel" />
+<Method Token="100663484" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663485" Name="OnClick" Variables="this;e;" ParamCnt="2" />
+<Type Token="33554462" Name="SelectAndEvaluate.Properties.Resources" />
+<Method Token="100663486" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663487" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663488" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663489" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663490" Name="get__4dots_logo_official" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663491" Name="get_about" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663492" Name="get_add" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663493" Name="get_add1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663494" Name="get_arrow_down_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663495" Name="get_arrow_left_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663496" Name="get_arrow_right_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663497" Name="get_arrow_up_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663498" Name="get_brush2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663499" Name="get_brush4" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663500" Name="get_bullet_ball_glass_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663501" Name="get_bullet_ball_glass_blue_16" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663502" Name="get_bullet_ball_glass_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663503" Name="get_bullet_ball_glass_red" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663504" Name="get_bullet_ball_glass_yellow" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663505" Name="get_cart_icon_b_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663506" Name="get_check" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663507" Name="get_copy" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663508" Name="get_cut" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663509" Name="get_delete" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663510" Name="get_delete1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663511" Name="get_disk_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663512" Name="get_document_preferences" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663513" Name="get_earth" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663514" Name="get_edit" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663515" Name="get_exit" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663516" Name="get_exit1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663517" Name="get_facebook_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663518" Name="get_facebook_32" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663519" Name="get_flash" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663520" Name="get_flash1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663521" Name="get_folder" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663522" Name="get_folder_add" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663523" Name="get_folder1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663524" Name="get_googleplus_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663525" Name="get_help2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663526" Name="get_import1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663527" Name="get_information" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663528" Name="get_key1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663529" Name="get_linkedin_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663530" Name="get_mail" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663531" Name="get_media_pause" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663532" Name="get_media_stop" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663533" Name="get_navigate_beginning" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663534" Name="get_navigate_end" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663535" Name="get_paypal_donate" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663536" Name="get_preferences" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663537" Name="get_select_and_calculate" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663538" Name="get_twitter_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663539" Name="get_twitter_32" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663540" Name="get_warning" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663541" Name="get_youtube_32" Variables="obj;V_1;" ParamCnt="0" />
+<Field Token="67109056" Name="resourceMan" />
+<Field Token="67109057" Name="resourceCulture" />
+<Type Token="33554463" Name="SelectAndEvaluate.Properties.Settings" />
+<Method Token="100663542" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663543" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663544" Name="get_Default" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663545" Name="get_ShortcutKeyString" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663546" Name="set_ShortcutKeyString" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663547" Name="get_Price" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663548" Name="set_Price" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663549" Name="get_LastCheckVersion" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663550" Name="set_LastCheckVersion" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663551" Name="get_CheckWeek" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663552" Name="set_CheckWeek" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663553" Name="get_MinimizeToTray" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663554" Name="set_MinimizeToTray" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663555" Name="get_Initialized" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663556" Name="set_Initialized" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663557" Name="get_ShortcutKey" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663558" Name="set_ShortcutKey" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663559" Name="get_PasteResult" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663560" Name="set_PasteResult" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663561" Name="get_KeyControl" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663562" Name="set_KeyControl" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663563" Name="get_KeyAlt" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663564" Name="set_KeyAlt" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663565" Name="get_KeyShift" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663566" Name="set_KeyShift" Variables="this;value;" ParamCnt="2" />
+<Field Token="67109058" Name="defaultInstance" />
+<Type Token="33554464" Name="SelectAndEvaluate.GlobalHook/POINT" />
+<Method Token="100663567" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109059" Name="x" />
+<Field Token="67109060" Name="y" />
+<Type Token="33554465" Name="SelectAndEvaluate.GlobalHook/MouseHookStruct" />
+<Method Token="100663568" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109061" Name="pt" />
+<Field Token="67109062" Name="hwnd" />
+<Field Token="67109063" Name="wHitTestCode" />
+<Field Token="67109064" Name="dwExtraInfo" />
+<Type Token="33554466" Name="SelectAndEvaluate.GlobalHook/MouseLLHookStruct" />
+<Method Token="100663569" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109065" Name="pt" />
+<Field Token="67109066" Name="mouseData" />
+<Field Token="67109067" Name="flags" />
+<Field Token="67109068" Name="time" />
+<Field Token="67109069" Name="dwExtraInfo" />
+<Type Token="33554467" Name="SelectAndEvaluate.GlobalHook/KeyboardHookStruct" />
+<Method Token="100663570" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109070" Name="vkCode" />
+<Field Token="67109071" Name="scanCode" />
+<Field Token="67109072" Name="flags" />
+<Field Token="67109073" Name="time" />
+<Field Token="67109074" Name="dwExtraInfo" />
+<Type Token="33554468" Name="SelectAndEvaluate.GlobalHook/HookProc" />
+<Method Token="100663571" Name=".ctor" Variables="this;object;method;" ParamCnt="3" />
+<Method Token="100663572" Name="Invoke" Variables="this;nCode;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663573" Name="BeginInvoke" Variables="this;nCode;wParam;lParam;callback;object;" ParamCnt="6" />
+<Method Token="100663574" Name="EndInvoke" Variables="this;result;" ParamCnt="2" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663301" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly></Mappings>
